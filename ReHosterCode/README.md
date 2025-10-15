@@ -157,7 +157,7 @@ pip install -r requirements.txt
 ```
 
 **Basic Usage:**
-- The main script to start the re-hosting is called `aosp_build_injector.py`. It has a help file t
+- The main script to start the re-hosting is called `aosp_build_injector.py`. It has a help command:
 ```bash
 python aosp_build_injector.py --help
 ```
