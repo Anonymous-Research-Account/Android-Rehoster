@@ -2,5 +2,5 @@
 Anonymous Repo for the Paper: Relocate and Emulate: Re-Hosting Android’s Application Layer
 
 ## Folders
-- [Evaluation](Evaluation/DataImages.ipynb): Contains the evaluation data artefacts, all plots, and additional information.
+- [Evaluation](Evaluation): Contains the evaluation data artefacts, all plots, and additional information.
 - [ReHosterCode](ReHosterCode): Contains the source code for the AOSP Re-Hoster and emulator streaming. Including guidelines on how to use the re-hoster to reproduce our study.
