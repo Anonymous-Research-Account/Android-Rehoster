@@ -147,3 +147,15 @@ The `images/` directory contains PDF visualizations generated from the data anal
   - `v13_Duration_Builds.pdf` / `v13_Duration_Post_Injection.pdf`: Android 13 metrics
   - `SDK32_Duration_Builds.pdf` / `SDK32_Duration_Post_Injection.pdf`: SDK 32 metrics
 
+## Dataset
+
+- Evaluation Artefacts: ReHosted Emulator images are available under: [https://160.85.255.194:8443/](https://160.85.255.194:8443/)
+- Demo Samples: To test the re-hoster firmware samples from Google can be use -> [https://developers.google.com/android/images](https://developers.google.com/android/images)
+- Dataset: The firmware dataset will be made available on Zenodo after paper acceptance.
+
+
+
+
+
+
+
