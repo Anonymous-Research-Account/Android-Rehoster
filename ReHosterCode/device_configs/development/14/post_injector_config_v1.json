@@ -1,6 +1,6 @@
 {
-  "FMD_URL": "https://firmwaredroid.cloudlab.zhaw.ch",
-  "GRAPHQL_API_URL": "https://firmwaredroid.cloudlab.zhaw.ch/graphql",
+  "FMD_URL": "https://firmwaredroid.ANON.ANON.ch",
+  "GRAPHQL_API_URL": "https://firmwaredroid.ANON.ANON.ch/graphql",
   "ENABLE_INJECTION": true,
   "DISABLE_MISC_INJECTION": false,
   "SHARED_USER_ID_MAPPING_DICT":{
@@ -163,7 +163,7 @@
     "idmap2", "ip6tables", "lockagent_crasher", "mediaextractor", "nc", "ping", "requestsync", "setenforce",
     "start_with_lockagent", "ueventd", "vdc", "avbctl", "cat", "debugfs_static", "e2fsdroid", "getevent", "idmap2d",
     "ip6tables-restore", "locksettings", "mediametrics", "ndc", "ping6", "resize.f2fs", "setprop", "stat", "tinycap",
-    "uiautomator", "viewcompiler", "awk", "charger", "debuggerd", "echo", "getprop", "ifconfig", "ip6tables-save", "log",
+    "uiauANONator", "viewcompiler", "awk", "charger", "debuggerd", "echo", "getprop", "ifconfig", "ip6tables-save", "log",
     "mediaserver", "ndc-wrapper-1.0", "pkill", "resize2fs", "setsid", "stop", "tinyhostless", "uinput", "vmstat",
     "badblocks", "chattr", "defrag.f2fs", "egrep", "gpuservice", "ime", "ip6tables-wrapper-1.0", "logcat", "microcom",
     "netcat", "pm", "restorecon", "settings", "storaged", "tinymix", "ulimit", "vold", "base64", "chcon", "device_config",

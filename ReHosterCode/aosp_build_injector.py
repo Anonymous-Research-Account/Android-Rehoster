@@ -893,7 +893,7 @@ def parse_arguments():
                         help="Specifies the path to the root of the aosp source code.")
     parser.add_argument("-f", "--fmd-url", type=str, default=None, required=True,
                         help="HTTP/HTTPS url to the FMD instance to grab the packages."
-                             "Example: https://firmwaredroid.cloudlab.zhaw.ch")
+                             "Example: https://firmwaredroid.ANON.ANON.ch")
     parser.add_argument("-u", "--fmd-username", type=str, default=None, required=True,
                         help="Username for the authentication to the fmd service.")
     parser.add_argument("-d", "--docker-repo-username", type=str, default=None, required=True,

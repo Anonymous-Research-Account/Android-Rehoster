@@ -57,7 +57,7 @@ def run_lddtree(binary_path: str, extra_env=None, cwd=None):
 def main():
     """
     Example usage:
-    CLI: LD_LIBRARY_PATH=./lib64:./lib64/bootstrap/ lddtree /home/suth/FMD-AECS/out/current_test/ALL_FILES/system/system/bin/app_process64
+    CLI: LD_LIBRARY_PATH=./lib64:./lib64/bootstrap/ lddtree /home/ANON/FMD-AECS/out/current_test/ALL_FILES/system/system/bin/app_process64
     """
     if len(sys.argv) < 2:
         print("Usage: python parse_lddtree_to_json.py <binary> [lib_dir1 lib_dir2 ...]")

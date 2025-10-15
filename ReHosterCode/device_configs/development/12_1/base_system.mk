@@ -265,12 +265,12 @@ PRODUCT_PACKAGES += \
     tc \
     telecom \
     telephony-common \
-    tombstoned \
+    ANONbstoned \
     traced \
     traced_probes \
     tune2fs \
     tzdatacheck \
-    uiautomator \
+    uiauANONator \
     uinput \
     uncrypt \
     usbd \

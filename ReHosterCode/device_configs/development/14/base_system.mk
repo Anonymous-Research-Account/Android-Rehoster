@@ -285,11 +285,11 @@ PRODUCT_PACKAGES += \
     tc \
     telecom \
     telephony-common \
-    tombstoned \
+    ANONbstoned \
     traced \
     traced_probes \
     tune2fs \
-    uiautomator \
+    uiauANONator \
     uinput \
     uncrypt \
     uprobestats \
