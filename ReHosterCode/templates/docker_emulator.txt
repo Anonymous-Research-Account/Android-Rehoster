@@ -1,0 +1,19 @@
+{{ service_name }}:
+    platform: {{ platform }}
+    container_name: {{ container_name }}
+    image: {{ image_name }}
+    restart: unless-stopped
+    env_file:
+      - ./env/.env
+    ports:
+      - "{{ grpc_port_host }}:8554"
+      - "{{ adb_port_host }}:5555"
+      - "{{ ssh_port_host }}:22"
+    sysctls:
+      - "net.ipv6.conf.all.disable_ipv6=1"
+    networks:
+      - frontend
+      - android
+{%- for line in optional_settings %}
+    {{ line }}
+{%- endfor %}

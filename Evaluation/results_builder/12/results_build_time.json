@@ -1,0 +1,836 @@
+[
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "duration": 4569.12,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b266e865e2ad36cf1a5cbb",
+        "duration": 4817.04,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "duration": 4775.83,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b266e865e2ad36cf1a5cbb",
+        "duration": 4772.09,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b26d9c65e2ad36cf21d030",
+        "duration": 4550.64,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2717f65e2ad36cf245d69",
+        "duration": 4391.99,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b280f165e2ad36cf2f0786",
+        "duration": 4349.49,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2885865e2ad36cf3631fa",
+        "duration": 4621.69,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b29f1365e2ad36cf45aa06",
+        "duration": 4583.21,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2a87f65e2ad36cf4bc02d",
+        "duration": 4635.58,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2b35565e2ad36cf550d2e",
+        "duration": 4821.42,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2b50d65e2ad36cf56065c",
+        "duration": 4815.77,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2c67765e2ad36cf60f6d4",
+        "duration": 4767.31,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2d78b65e2ad36cf6dd3ad",
+        "duration": 4820.32,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2daf965e2ad36cf70b0e5",
+        "duration": 4787.82,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2e6d065e2ad36cf7a8b46",
+        "duration": 4926.39,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2ebc265e2ad36cf7e81e2",
+        "duration": 4638.95,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2f11665e2ad36cf82835f",
+        "duration": 4791.94,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2f4a665e2ad36cf85276f",
+        "duration": 4827.09,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2ff7a65e2ad36cf8d5b72",
+        "duration": 4850.06,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b30f0b65e2ad36cf9a5278",
+        "duration": 4956.39,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b3190265e2ad36cf9ee70a",
+        "duration": 4732.86,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b15b6465e2ad36cf48b552",
+        "duration": 5677.86,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1793565e2ad36cf60abb1",
+        "duration": 5963.19,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b17c4d65e2ad36cf638567",
+        "duration": 5589.18,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1888f65e2ad36cf6d98fa",
+        "duration": 6007.4,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1a3cf65e2ad36cf82f526",
+        "duration": 5750.23,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1c01965e2ad36cf9bafcb",
+        "duration": 6138.72,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1c52865e2ad36cf9fb03c",
+        "duration": 6053.26,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1d66d65e2ad36cfab3c34",
+        "duration": 6129.07,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1ded465e2ad36cfb277ba",
+        "duration": 6224.04,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e23b65e2ad36cfb6228a",
+        "duration": 5938.92,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e4e565e2ad36cfb762a4",
+        "duration": 5934.0,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e6f865e2ad36cfb85aaa",
+        "duration": 5918.26,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1ed3065e2ad36cfbc8252",
+        "duration": 5842.6,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1f86e65e2ad36cfc530f4",
+        "duration": 5886.61,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1feae65e2ad36cfcad9f6",
+        "duration": 5929.16,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2019e65e2ad36cfcce612",
+        "duration": 5850.06,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2052365e2ad36cfce85f6",
+        "duration": 5799.08,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b213fd65e2ad36cfdce54e",
+        "duration": 5877.25,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b21be565e2ad36cfe0cf20",
+        "duration": 5774.52,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2204865e2ad36cfe48dc0",
+        "duration": 5691.63,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b22e4b65e2ad36cfef9738",
+        "duration": 5677.73,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b230f765e2ad36cff14e06",
+        "duration": 5759.77,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b246fb65e2ad36cf02eb63",
+        "duration": 5778.99,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b24edf65e2ad36cf088805",
+        "duration": 5587.23,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b24fb565e2ad36cf090495",
+        "duration": 5827.65,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2533c65e2ad36cf0b3c04",
+        "duration": 5768.95,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b259c365e2ad36cf12701e",
+        "duration": 5742.47,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "duration": 5905.81,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68afe98665e2ad36cf29f259",
+        "duration": 5887.6,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68aff32465e2ad36cf30b876",
+        "duration": 5679.73,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0002665e2ad36cf3b2daa",
+        "duration": 5793.26,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b012c465e2ad36cf49c406",
+        "duration": 5739.38,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b01de365e2ad36cf548d00",
+        "duration": 5740.65,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0212265e2ad36cf572d58",
+        "duration": 5906.78,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0273f65e2ad36cf5a2c94",
+        "duration": 5799.44,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b027f465e2ad36cf5a471d",
+        "duration": 5928.6,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b04b0965e2ad36cf761c59",
+        "duration": 5889.43,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0672865e2ad36cf8f12ac",
+        "duration": 5895.42,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0705165e2ad36cf97ab46",
+        "duration": 5615.64,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0725165e2ad36cf99ac5c",
+        "duration": 5990.97,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b077d765e2ad36cf9da4f7",
+        "duration": 5610.18,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0807165e2ad36cfa7657f",
+        "duration": 5801.86,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b084fb65e2ad36cfa941d0",
+        "duration": 5809.12,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0863465e2ad36cfa9f965",
+        "duration": 5764.85,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0892a65e2ad36cfab2516",
+        "duration": 5545.1,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0927165e2ad36cfb0b56a",
+        "duration": 5631.53,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0a98665e2ad36cfc1a00d",
+        "duration": 5814.12,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0aaf165e2ad36cfc2101f",
+        "duration": 5855.19,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0aca965e2ad36cfc2478d",
+        "duration": 5643.62,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0bb2b65e2ad36cfcb8e24",
+        "duration": 5598.55,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0da2165e2ad36cfe19b3d",
+        "duration": 5716.37,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0fbdd65e2ad36cffe3d1f",
+        "duration": 5729.3,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1075d65e2ad36cf0776d5",
+        "duration": 5681.49,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b10b9365e2ad36cf09d98f",
+        "duration": 5734.19,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1187e65e2ad36cf157cea",
+        "duration": 5708.37,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b11f5a65e2ad36cf192fbb",
+        "duration": 5710.0,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1266865e2ad36cf200744",
+        "duration": 5844.35,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b134be65e2ad36cf2b556f",
+        "duration": 5877.15,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1438565e2ad36cf374105",
+        "duration": 6064.66,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1515465e2ad36cf416220",
+        "duration": 6030.72,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1579065e2ad36cf46a90a",
+        "duration": 5975.37,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af110965e2ad36cf7475cd",
+        "duration": 5628.24,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af163465e2ad36cf783058",
+        "duration": 5883.77,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af169465e2ad36cf7871b7",
+        "duration": 5817.61,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af219965e2ad36cf8260b2",
+        "duration": 5881.0,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af271f65e2ad36cf87f7a9",
+        "duration": 5716.75,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af2c8865e2ad36cf8d7c82",
+        "duration": 5848.71,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af2f0565e2ad36cf8ec78b",
+        "duration": 5841.07,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af388565e2ad36cf94dea9",
+        "duration": 5769.49,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af426d65e2ad36cf9f9ae2",
+        "duration": 5809.93,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af42df65e2ad36cf9fe2e2",
+        "duration": 5766.23,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af4a2965e2ad36cfa4c3a7",
+        "duration": 5804.48,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af527e65e2ad36cfab0359",
+        "duration": 5844.38,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af568b65e2ad36cfae4ae0",
+        "duration": 5816.38,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af5a9765e2ad36cfb14a36",
+        "duration": 5793.38,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af61ae65e2ad36cfb8b700",
+        "duration": 5969.91,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af64ac65e2ad36cfbb02d6",
+        "duration": 5573.18,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af731865e2ad36cfc67367",
+        "duration": 5901.23,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af7c2965e2ad36cfcd1488",
+        "duration": 5752.95,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af7f6065e2ad36cfcfb4bc",
+        "duration": 5599.94,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af849165e2ad36cfd4a6d0",
+        "duration": 5716.41,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af9cd365e2ad36cfe8f693",
+        "duration": 5755.93,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afa42065e2ad36cfef8e2e",
+        "duration": 5641.01,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afab5665e2ad36cff54311",
+        "duration": 5689.71,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afb0cd65e2ad36cffa1f06",
+        "duration": 5629.29,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afb81b65e2ad36cf02b66a",
+        "duration": 5686.69,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afba2865e2ad36cf03c0f0",
+        "duration": 5684.76,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afbec865e2ad36cf05f3b3",
+        "duration": 5543.01,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afd0b165e2ad36cf15fc55",
+        "duration": 5934.08,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afd6e865e2ad36cf1c1b8a",
+        "duration": 5782.14,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afda9765e2ad36cf1e12a5",
+        "duration": 5872.24,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afe98665e2ad36cf29f259",
+        "duration": 5874.65,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68aff32465e2ad36cf30b876",
+        "duration": 6126.42,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0002665e2ad36cf3b2daa",
+        "duration": 5830.39,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b012c465e2ad36cf49c406",
+        "duration": 5740.72,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b01de365e2ad36cf548d00",
+        "duration": 5752.87,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0212265e2ad36cf572d58",
+        "duration": 5899.18,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0273f65e2ad36cf5a2c94",
+        "duration": 5874.59,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b027f465e2ad36cf5a471d",
+        "duration": 5880.26,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b04b0965e2ad36cf761c59",
+        "duration": 5874.7,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0672865e2ad36cf8f12ac",
+        "duration": 5968.1,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0705165e2ad36cf97ab46",
+        "duration": 5871.27,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0725165e2ad36cf99ac5c",
+        "duration": 5920.3,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b077d765e2ad36cf9da4f7",
+        "duration": 5958.31,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0807165e2ad36cfa7657f",
+        "duration": 5901.29,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b084fb65e2ad36cfa941d0",
+        "duration": 6004.84,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0863465e2ad36cfa9f965",
+        "duration": 5951.34,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0892a65e2ad36cfab2516",
+        "duration": 5834.99,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0927165e2ad36cfb0b56a",
+        "duration": 5894.51,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0a98665e2ad36cfc1a00d",
+        "duration": 5914.32,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0aaf165e2ad36cfc2101f",
+        "duration": 6020.01,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0aca965e2ad36cfc2478d",
+        "duration": 5741.66,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0bb2b65e2ad36cfcb8e24",
+        "duration": 5728.06,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0da2165e2ad36cfe19b3d",
+        "duration": 5855.11,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0fbdd65e2ad36cffe3d1f",
+        "duration": 6143.37,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1075d65e2ad36cf0776d5",
+        "duration": 6057.81,
+        "status": "success"
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b10b9365e2ad36cf09d98f",
+        "duration": 6000.37,
+        "status": "success"
+    }
+]

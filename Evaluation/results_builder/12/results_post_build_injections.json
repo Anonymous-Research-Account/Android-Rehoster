@@ -1,0 +1,2455 @@
+[
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "method": "start_post_build_injector",
+        "start_time": 1758616346.3561125,
+        "end_time": 1758616441.254089,
+        "duration_minutes": 1.58163294394811,
+        "duration_seconds": 94.8979766368866,
+        "errors": 15502,
+        "objects_injected": 177,
+        "partition_files_injected": 5786,
+        "files_injected": 5963,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15502
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b266e865e2ad36cf1a5cbb",
+        "method": "start_post_build_injector",
+        "start_time": 1758621272.2055736,
+        "end_time": 1758621550.1358562,
+        "duration_minutes": 4.632171376546224,
+        "duration_seconds": 277.93028259277344,
+        "errors": 73138,
+        "objects_injected": 149,
+        "partition_files_injected": 3313,
+        "files_injected": 3462,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 73138
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b26d9c65e2ad36cf21d030",
+        "method": "start_post_build_injector",
+        "start_time": 1758626119.6672752,
+        "end_time": 1758626153.3078768,
+        "duration_minutes": 0.5606766939163208,
+        "duration_seconds": 33.64060163497925,
+        "errors": 2013,
+        "objects_injected": 164,
+        "partition_files_injected": 1482,
+        "files_injected": 1646,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2013
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "method": "start_post_build_injector",
+        "start_time": 1758630896.1564424,
+        "end_time": 1758630983.19883,
+        "duration_minutes": 1.450706458091736,
+        "duration_seconds": 87.04238748550415,
+        "errors": 15502,
+        "objects_injected": 178,
+        "partition_files_injected": 5786,
+        "files_injected": 5964,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15502
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b266e865e2ad36cf1a5cbb",
+        "method": "start_post_build_injector",
+        "start_time": 1758635834.5238945,
+        "end_time": 1758636077.6330209,
+        "duration_minutes": 4.051818772157033,
+        "duration_seconds": 243.109126329422,
+        "errors": 73138,
+        "objects_injected": 150,
+        "partition_files_injected": 3313,
+        "files_injected": 3463,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 73138
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b26d9c65e2ad36cf21d030",
+        "method": "start_post_build_injector",
+        "start_time": 1758640648.9345853,
+        "end_time": 1758640680.3665798,
+        "duration_minutes": 0.5238665739695231,
+        "duration_seconds": 31.431994438171387,
+        "errors": 2013,
+        "objects_injected": 165,
+        "partition_files_injected": 1482,
+        "files_injected": 1647,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2013
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2717f65e2ad36cf245d69",
+        "method": "start_post_build_injector",
+        "start_time": 1758645223.1286433,
+        "end_time": 1758645272.6612763,
+        "duration_minutes": 0.8255438844362895,
+        "duration_seconds": 49.53263306617737,
+        "errors": 6520,
+        "objects_injected": 179,
+        "partition_files_injected": 5149,
+        "files_injected": 5328,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6520
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b280f165e2ad36cf2f0786",
+        "method": "start_post_build_injector",
+        "start_time": 1758649724.0473955,
+        "end_time": 1758649797.0359185,
+        "duration_minutes": 1.2164753834406534,
+        "duration_seconds": 72.98852300643921,
+        "errors": 11070,
+        "objects_injected": 181,
+        "partition_files_injected": 1871,
+        "files_injected": 2052,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11070
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2885865e2ad36cf3631fa",
+        "method": "start_post_build_injector",
+        "start_time": 1758654421.2797666,
+        "end_time": 1758654480.6504383,
+        "duration_minutes": 0.9895111958185832,
+        "duration_seconds": 59.37067174911499,
+        "errors": 10240,
+        "objects_injected": 178,
+        "partition_files_injected": 5378,
+        "files_injected": 5556,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10240
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b29f1365e2ad36cf45aa06",
+        "method": "start_post_build_injector",
+        "start_time": 1758659244.0419304,
+        "end_time": 1758659297.9512894,
+        "duration_minutes": 0.8984893163045248,
+        "duration_seconds": 53.909358978271484,
+        "errors": 6512,
+        "objects_injected": 179,
+        "partition_files_injected": 5124,
+        "files_injected": 5303,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6512
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2a87f65e2ad36cf4bc02d",
+        "method": "start_post_build_injector",
+        "start_time": 1758663982.41858,
+        "end_time": 1758664013.7188659,
+        "duration_minutes": 0.5216714302698772,
+        "duration_seconds": 31.300285816192627,
+        "errors": 2336,
+        "objects_injected": 167,
+        "partition_files_injected": 1369,
+        "files_injected": 1536,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2336
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2b35565e2ad36cf550d2e",
+        "method": "start_post_build_injector",
+        "start_time": 1758668949.7465587,
+        "end_time": 1758669009.8149269,
+        "duration_minutes": 1.001139469941457,
+        "duration_seconds": 60.06836819648743,
+        "errors": 6470,
+        "objects_injected": 177,
+        "partition_files_injected": 5482,
+        "files_injected": 5659,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6470
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2b50d65e2ad36cf56065c",
+        "method": "start_post_build_injector",
+        "start_time": 1758673924.6081445,
+        "end_time": 1758674009.2871687,
+        "duration_minutes": 1.4113170703252156,
+        "duration_seconds": 84.67902421951294,
+        "errors": 14895,
+        "objects_injected": 180,
+        "partition_files_injected": 5382,
+        "files_injected": 5562,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14895
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2c67765e2ad36cf60f6d4",
+        "method": "start_post_build_injector",
+        "start_time": 1758678878.1994045,
+        "end_time": 1758678972.1818004,
+        "duration_minutes": 1.5663732647895814,
+        "duration_seconds": 93.98239588737488,
+        "errors": 11070,
+        "objects_injected": 181,
+        "partition_files_injected": 1871,
+        "files_injected": 2052,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11070
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2d78b65e2ad36cf6dd3ad",
+        "method": "start_post_build_injector",
+        "start_time": 1758683952.465552,
+        "end_time": 1758684009.3960254,
+        "duration_minutes": 0.9488412221272786,
+        "duration_seconds": 56.93047332763672,
+        "errors": 6702,
+        "objects_injected": 180,
+        "partition_files_injected": 5260,
+        "files_injected": 5440,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6702
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2daf965e2ad36cf70b0e5",
+        "method": "start_post_build_injector",
+        "start_time": 1758688962.1527436,
+        "end_time": 1758689042.4169898,
+        "duration_minutes": 1.3377374370892843,
+        "duration_seconds": 80.26424622535706,
+        "errors": 9284,
+        "objects_injected": 177,
+        "partition_files_injected": 5353,
+        "files_injected": 5530,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9284
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2e6d065e2ad36cf7a8b46",
+        "method": "start_post_build_injector",
+        "start_time": 1758693987.0319765,
+        "end_time": 1758694075.5322478,
+        "duration_minutes": 1.4750045220057169,
+        "duration_seconds": 88.50027132034302,
+        "errors": 14897,
+        "objects_injected": 178,
+        "partition_files_injected": 5823,
+        "files_injected": 6001,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14897
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2ebc265e2ad36cf7e81e2",
+        "method": "start_post_build_injector",
+        "start_time": 1758698918.4599946,
+        "end_time": 1758698988.4983165,
+        "duration_minutes": 1.1673053661982218,
+        "duration_seconds": 70.03832197189331,
+        "errors": 9816,
+        "objects_injected": 182,
+        "partition_files_injected": 2848,
+        "files_injected": 3030,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9816
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2f11665e2ad36cf82835f",
+        "method": "start_post_build_injector",
+        "start_time": 1758703913.286347,
+        "end_time": 1758703972.1374278,
+        "duration_minutes": 0.9808513482411703,
+        "duration_seconds": 58.851080894470215,
+        "errors": 6512,
+        "objects_injected": 179,
+        "partition_files_injected": 5135,
+        "files_injected": 5314,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6512
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2f4a665e2ad36cf85276f",
+        "method": "start_post_build_injector",
+        "start_time": 1758708896.2617002,
+        "end_time": 1758708980.9944642,
+        "duration_minutes": 1.4122127334276835,
+        "duration_seconds": 84.73276400566101,
+        "errors": 14915,
+        "objects_injected": 180,
+        "partition_files_injected": 5384,
+        "files_injected": 5564,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14915
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b2ff7a65e2ad36cf8d5b72",
+        "method": "start_post_build_injector",
+        "start_time": 1758713925.626649,
+        "end_time": 1758713986.540418,
+        "duration_minutes": 1.0152294834454854,
+        "duration_seconds": 60.913769006729126,
+        "errors": 6424,
+        "objects_injected": 177,
+        "partition_files_injected": 5391,
+        "files_injected": 5568,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6424
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b30f0b65e2ad36cf9a5278",
+        "method": "start_post_build_injector",
+        "start_time": 1758719076.7583017,
+        "end_time": 1758719164.806551,
+        "duration_minutes": 1.4674708207448324,
+        "duration_seconds": 88.04824924468994,
+        "errors": 13673,
+        "objects_injected": 178,
+        "partition_files_injected": 5677,
+        "files_injected": 5855,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 13673
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-v2",
+        "firmware_id": "68b3190265e2ad36cf9ee70a",
+        "method": "start_post_build_injector",
+        "start_time": 1758724130.2918155,
+        "end_time": 1758724203.5108647,
+        "duration_minutes": 1.2203174869219462,
+        "duration_seconds": 73.21904921531677,
+        "errors": 9812,
+        "objects_injected": 182,
+        "partition_files_injected": 2349,
+        "files_injected": 2531,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9812
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b15b6465e2ad36cf48b552",
+        "method": "start_post_build_injector",
+        "start_time": 1758568993.377336,
+        "end_time": 1758569032.1514938,
+        "duration_minutes": 0.6462359627087911,
+        "duration_seconds": 38.774157762527466,
+        "errors": 2201,
+        "objects_injected": 163,
+        "partition_files_injected": 1215,
+        "files_injected": 1378,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2201
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1793565e2ad36cf60abb1",
+        "method": "start_post_build_injector",
+        "start_time": 1758575168.521954,
+        "end_time": 1758575229.9526227,
+        "duration_minutes": 1.0238444765408834,
+        "duration_seconds": 61.430668592453,
+        "errors": 6750,
+        "objects_injected": 176,
+        "partition_files_injected": 5645,
+        "files_injected": 5821,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6750
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b17c4d65e2ad36cf638567",
+        "method": "start_post_build_injector",
+        "start_time": 1758580959.3129287,
+        "end_time": 1758581023.7225544,
+        "duration_minutes": 1.073493762811025,
+        "duration_seconds": 64.4096257686615,
+        "errors": 9801,
+        "objects_injected": 180,
+        "partition_files_injected": 2358,
+        "files_injected": 2538,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9801
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1888f65e2ad36cf6d98fa",
+        "method": "start_post_build_injector",
+        "start_time": 1758587179.9482846,
+        "end_time": 1758587236.950954,
+        "duration_minutes": 0.9500444889068603,
+        "duration_seconds": 57.00266933441162,
+        "errors": 6526,
+        "objects_injected": 176,
+        "partition_files_injected": 5148,
+        "files_injected": 5324,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6526
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1a3cf65e2ad36cf82f526",
+        "method": "start_post_build_injector",
+        "start_time": 1758593139.5599422,
+        "end_time": 1758593192.5203323,
+        "duration_minutes": 0.8826731681823731,
+        "duration_seconds": 52.96039009094238,
+        "errors": 6458,
+        "objects_injected": 173,
+        "partition_files_injected": 4997,
+        "files_injected": 5170,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6458
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1c01965e2ad36cf9bafcb",
+        "method": "start_post_build_injector",
+        "start_time": 1758599310.848382,
+        "end_time": 1758599391.9149375,
+        "duration_minutes": 1.351109258333842,
+        "duration_seconds": 81.06655550003052,
+        "errors": 14893,
+        "objects_injected": 177,
+        "partition_files_injected": 5395,
+        "files_injected": 5572,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14893
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1c52865e2ad36cf9fb03c",
+        "method": "start_post_build_injector",
+        "start_time": 1758605655.5153618,
+        "end_time": 1758605733.905007,
+        "duration_minutes": 1.306494084993998,
+        "duration_seconds": 78.38964509963989,
+        "errors": 14907,
+        "objects_injected": 177,
+        "partition_files_injected": 5383,
+        "files_injected": 5560,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14907
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1d66d65e2ad36cfab3c34",
+        "method": "start_post_build_injector",
+        "start_time": 1758611903.1125832,
+        "end_time": 1758611949.1077986,
+        "duration_minutes": 0.7665869235992432,
+        "duration_seconds": 45.99521541595459,
+        "errors": 1904,
+        "objects_injected": 163,
+        "partition_files_injected": 1382,
+        "files_injected": 1545,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1904
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1ded465e2ad36cfb277ba",
+        "method": "start_post_build_injector",
+        "start_time": 1758618322.560096,
+        "end_time": 1758618395.0502899,
+        "duration_minutes": 1.2081698973973591,
+        "duration_seconds": 72.49019384384155,
+        "errors": 6791,
+        "objects_injected": 176,
+        "partition_files_injected": 5653,
+        "files_injected": 5829,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6791
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e23b65e2ad36cfb6228a",
+        "method": "start_post_build_injector",
+        "start_time": 1758624527.386828,
+        "end_time": 1758624634.1153927,
+        "duration_minutes": 1.778809412320455,
+        "duration_seconds": 106.7285647392273,
+        "errors": 10766,
+        "objects_injected": 179,
+        "partition_files_injected": 1869,
+        "files_injected": 2048,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10766
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e4e565e2ad36cfb762a4",
+        "method": "start_post_build_injector",
+        "start_time": 1758630677.8622043,
+        "end_time": 1758630762.911899,
+        "duration_minutes": 1.4174949129422505,
+        "duration_seconds": 85.04969477653503,
+        "errors": 12854,
+        "objects_injected": 176,
+        "partition_files_injected": 5642,
+        "files_injected": 5818,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 12854
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1e6f865e2ad36cfb85aaa",
+        "method": "start_post_build_injector",
+        "start_time": 1758636936.139953,
+        "end_time": 1758637001.157149,
+        "duration_minutes": 1.0836199363072714,
+        "duration_seconds": 65.01719617843628,
+        "errors": 10057,
+        "objects_injected": 179,
+        "partition_files_injected": 3161,
+        "files_injected": 3340,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10057
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1ed3065e2ad36cfbc8252",
+        "method": "start_post_build_injector",
+        "start_time": 1758642928.4203842,
+        "end_time": 1758643002.1301827,
+        "duration_minutes": 1.2284966429074606,
+        "duration_seconds": 73.70979857444763,
+        "errors": 14062,
+        "objects_injected": 177,
+        "partition_files_injected": 5352,
+        "files_injected": 5529,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14062
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1f86e65e2ad36cfc530f4",
+        "method": "start_post_build_injector",
+        "start_time": 1758649067.9235992,
+        "end_time": 1758649135.5616097,
+        "duration_minutes": 1.1273001750310263,
+        "duration_seconds": 67.63801050186157,
+        "errors": 10057,
+        "objects_injected": 179,
+        "partition_files_injected": 3170,
+        "files_injected": 3349,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10057
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1feae65e2ad36cfcad9f6",
+        "method": "start_post_build_injector",
+        "start_time": 1758655149.3408055,
+        "end_time": 1758655229.526604,
+        "duration_minutes": 1.3364299734433491,
+        "duration_seconds": 80.18579840660095,
+        "errors": 14921,
+        "objects_injected": 177,
+        "partition_files_injected": 5383,
+        "files_injected": 5560,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14921
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2019e65e2ad36cfcce612",
+        "method": "start_post_build_injector",
+        "start_time": 1758661208.1451297,
+        "end_time": 1758661285.186051,
+        "duration_minutes": 1.2840153535207113,
+        "duration_seconds": 77.04092121124268,
+        "errors": 9849,
+        "objects_injected": 180,
+        "partition_files_injected": 2348,
+        "files_injected": 2528,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9849
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2052365e2ad36cfce85f6",
+        "method": "start_post_build_injector",
+        "start_time": 1758667161.549287,
+        "end_time": 1758667201.393207,
+        "duration_minutes": 0.6640653332074483,
+        "duration_seconds": 39.8439199924469,
+        "errors": 1907,
+        "objects_injected": 163,
+        "partition_files_injected": 1394,
+        "files_injected": 1557,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1907
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b213fd65e2ad36cfdce54e",
+        "method": "start_post_build_injector",
+        "start_time": 1758673266.377516,
+        "end_time": 1758673322.0361123,
+        "duration_minutes": 0.9276432712872823,
+        "duration_seconds": 55.65859627723694,
+        "errors": 6482,
+        "objects_injected": 176,
+        "partition_files_injected": 5123,
+        "files_injected": 5299,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6482
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b21be565e2ad36cfe0cf20",
+        "method": "start_post_build_injector",
+        "start_time": 1758679167.9794858,
+        "end_time": 1758679199.2601075,
+        "duration_minutes": 0.5213436961174012,
+        "duration_seconds": 31.280621767044067,
+        "errors": 1614,
+        "objects_injected": 8,
+        "partition_files_injected": 1716,
+        "files_injected": 1724,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1614
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2204865e2ad36cfe48dc0",
+        "method": "start_post_build_injector",
+        "start_time": 1758685029.9621048,
+        "end_time": 1758685097.033973,
+        "duration_minutes": 1.117864469687144,
+        "duration_seconds": 67.07186818122864,
+        "errors": 10057,
+        "objects_injected": 179,
+        "partition_files_injected": 3161,
+        "files_injected": 3340,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10057
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b22e4b65e2ad36cfef9738",
+        "method": "start_post_build_injector",
+        "start_time": 1758690887.37528,
+        "end_time": 1758690973.6126134,
+        "duration_minutes": 1.4372888922691345,
+        "duration_seconds": 86.23733353614807,
+        "errors": 11070,
+        "objects_injected": 179,
+        "partition_files_injected": 1869,
+        "files_injected": 2048,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11070
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b230f765e2ad36cff14e06",
+        "method": "start_post_build_injector",
+        "start_time": 1758696824.3923564,
+        "end_time": 1758696854.7644286,
+        "duration_minutes": 0.5062012036641439,
+        "duration_seconds": 30.372072219848633,
+        "errors": 2201,
+        "objects_injected": 163,
+        "partition_files_injected": 1212,
+        "files_injected": 1375,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2201
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b246fb65e2ad36cf02eb63",
+        "method": "start_post_build_injector",
+        "start_time": 1758702715.5143924,
+        "end_time": 1758702794.3280203,
+        "duration_minutes": 1.313560465971629,
+        "duration_seconds": 78.81362795829773,
+        "errors": 14925,
+        "objects_injected": 177,
+        "partition_files_injected": 5382,
+        "files_injected": 5559,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14925
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b24edf65e2ad36cf088805",
+        "method": "start_post_build_injector",
+        "start_time": 1758708535.8091507,
+        "end_time": 1758708599.5374787,
+        "duration_minutes": 1.062138799826304,
+        "duration_seconds": 63.72832798957825,
+        "errors": 9816,
+        "objects_injected": 179,
+        "partition_files_injected": 2843,
+        "files_injected": 3022,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9816
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b24fb565e2ad36cf090495",
+        "method": "start_post_build_injector",
+        "start_time": 1758714540.61779,
+        "end_time": 1758714633.9780085,
+        "duration_minutes": 1.5560036420822143,
+        "duration_seconds": 93.36021852493286,
+        "errors": 11072,
+        "objects_injected": 179,
+        "partition_files_injected": 1869,
+        "files_injected": 2048,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11072
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b2533c65e2ad36cf0b3c04",
+        "method": "start_post_build_injector",
+        "start_time": 1758720494.603255,
+        "end_time": 1758720529.231111,
+        "duration_minutes": 0.577130933602651,
+        "duration_seconds": 34.62785601615906,
+        "errors": 2337,
+        "objects_injected": 164,
+        "partition_files_injected": 1354,
+        "files_injected": 1518,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2337
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b259c365e2ad36cf12701e",
+        "method": "start_post_build_injector",
+        "start_time": 1758726329.0315795,
+        "end_time": 1758726369.7053115,
+        "duration_minutes": 0.6778955340385437,
+        "duration_seconds": 40.67373204231262,
+        "errors": 1879,
+        "objects_injected": 107,
+        "partition_files_injected": 1144,
+        "files_injected": 1251,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1879
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b25ff965e2ad36cf16705e",
+        "method": "start_post_build_injector",
+        "start_time": 1758732452.0228078,
+        "end_time": 1758732533.1884441,
+        "duration_minutes": 1.3527606050173442,
+        "duration_seconds": 81.16563630104065,
+        "errors": 15502,
+        "objects_injected": 176,
+        "partition_files_injected": 5785,
+        "files_injected": 5961,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15502
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68afe98665e2ad36cf29f259",
+        "method": "start_post_build_injector",
+        "start_time": 1758569248.0355856,
+        "end_time": 1758569336.605867,
+        "duration_minutes": 1.476171354452769,
+        "duration_seconds": 88.57028126716614,
+        "errors": 13679,
+        "objects_injected": 176,
+        "partition_files_injected": 5811,
+        "files_injected": 5987,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 13679
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68aff32465e2ad36cf30b876",
+        "method": "start_post_build_injector",
+        "start_time": 1758575363.9387648,
+        "end_time": 1758575435.223799,
+        "duration_minutes": 1.1880839029947916,
+        "duration_seconds": 71.2850341796875,
+        "errors": 9812,
+        "objects_injected": 180,
+        "partition_files_injected": 2349,
+        "files_injected": 2529,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9812
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0002665e2ad36cf3b2daa",
+        "method": "start_post_build_injector",
+        "start_time": 1758581194.6517003,
+        "end_time": 1758581264.7980375,
+        "duration_minutes": 1.169105621178945,
+        "duration_seconds": 70.1463372707367,
+        "errors": 6750,
+        "objects_injected": 176,
+        "partition_files_injected": 5555,
+        "files_injected": 5731,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6750
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b012c465e2ad36cf49c406",
+        "method": "start_post_build_injector",
+        "start_time": 1758587297.8550336,
+        "end_time": 1758587369.1110303,
+        "duration_minutes": 1.1875999450683594,
+        "duration_seconds": 71.25599670410156,
+        "errors": 10044,
+        "objects_injected": 179,
+        "partition_files_injected": 3159,
+        "files_injected": 3338,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10044
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b01de365e2ad36cf548d00",
+        "method": "start_post_build_injector",
+        "start_time": 1758593240.055874,
+        "end_time": 1758593317.3701923,
+        "duration_minutes": 1.2885719696680704,
+        "duration_seconds": 77.31431818008423,
+        "errors": 14923,
+        "objects_injected": 177,
+        "partition_files_injected": 5383,
+        "files_injected": 5560,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14923
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0212265e2ad36cf572d58",
+        "method": "start_post_build_injector",
+        "start_time": 1758599273.8969378,
+        "end_time": 1758599345.428185,
+        "duration_minutes": 1.192187452316284,
+        "duration_seconds": 71.53124713897705,
+        "errors": 6778,
+        "objects_injected": 176,
+        "partition_files_injected": 5643,
+        "files_injected": 5819,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6778
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0273f65e2ad36cf5a2c94",
+        "method": "start_post_build_injector",
+        "start_time": 1758605412.7582717,
+        "end_time": 1758605470.400249,
+        "duration_minutes": 0.9606996218363444,
+        "duration_seconds": 57.641977310180664,
+        "errors": 6571,
+        "objects_injected": 176,
+        "partition_files_injected": 5091,
+        "files_injected": 5267,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6571
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b027f465e2ad36cf5a471d",
+        "method": "start_post_build_injector",
+        "start_time": 1758611417.4834776,
+        "end_time": 1758611504.05858,
+        "duration_minutes": 1.4429183721542358,
+        "duration_seconds": 86.57510232925415,
+        "errors": 14885,
+        "objects_injected": 177,
+        "partition_files_injected": 5383,
+        "files_injected": 5560,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14885
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b04b0965e2ad36cf761c59",
+        "method": "start_post_build_injector",
+        "start_time": 1758617603.6971464,
+        "end_time": 1758617669.0529635,
+        "duration_minutes": 1.0892636179924011,
+        "duration_seconds": 65.35581707954407,
+        "errors": 9057,
+        "objects_injected": 173,
+        "partition_files_injected": 5352,
+        "files_injected": 5525,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9057
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0672865e2ad36cf8f12ac",
+        "method": "start_post_build_injector",
+        "start_time": 1758623655.525353,
+        "end_time": 1758623720.4899292,
+        "duration_minutes": 1.082742937405904,
+        "duration_seconds": 64.96457624435425,
+        "errors": 6713,
+        "objects_injected": 177,
+        "partition_files_injected": 5259,
+        "files_injected": 5436,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6713
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0705165e2ad36cf97ab46",
+        "method": "start_post_build_injector",
+        "start_time": 1758629567.0162547,
+        "end_time": 1758629648.792289,
+        "duration_minutes": 1.362933905919393,
+        "duration_seconds": 81.77603435516357,
+        "errors": 10766,
+        "objects_injected": 179,
+        "partition_files_injected": 1871,
+        "files_injected": 2050,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10766
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0725165e2ad36cf99ac5c",
+        "method": "start_post_build_injector",
+        "start_time": 1758635606.3896706,
+        "end_time": 1758635644.7433121,
+        "duration_minutes": 0.6392273585001628,
+        "duration_seconds": 38.353641510009766,
+        "errors": 1878,
+        "objects_injected": 107,
+        "partition_files_injected": 1132,
+        "files_injected": 1239,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1878
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b077d765e2ad36cf9da4f7",
+        "method": "start_post_build_injector",
+        "start_time": 1758641534.8341782,
+        "end_time": 1758641553.92679,
+        "duration_minutes": 0.31821019649505616,
+        "duration_seconds": 19.09261178970337,
+        "errors": 6719,
+        "objects_injected": 0,
+        "partition_files_injected": 301,
+        "files_injected": 301,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6719
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0807165e2ad36cfa7657f",
+        "method": "start_post_build_injector",
+        "start_time": 1758647285.4148781,
+        "end_time": 1758647321.8012984,
+        "duration_minutes": 0.6064403374989827,
+        "duration_seconds": 36.386420249938965,
+        "errors": 2107,
+        "objects_injected": 163,
+        "partition_files_injected": 1518,
+        "files_injected": 1681,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2107
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b084fb65e2ad36cfa941d0",
+        "method": "start_post_build_injector",
+        "start_time": 1758653407.6419575,
+        "end_time": 1758653466.3115518,
+        "duration_minutes": 0.9778265714645386,
+        "duration_seconds": 58.669594287872314,
+        "errors": 6511,
+        "objects_injected": 176,
+        "partition_files_injected": 5135,
+        "files_injected": 5311,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6511
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0863465e2ad36cfa9f965",
+        "method": "start_post_build_injector",
+        "start_time": 1758659308.6824887,
+        "end_time": 1758659345.375433,
+        "duration_minutes": 0.6115490714708964,
+        "duration_seconds": 36.692944288253784,
+        "errors": 2374,
+        "objects_injected": 164,
+        "partition_files_injected": 1427,
+        "files_injected": 1591,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2374
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0892a65e2ad36cfab2516",
+        "method": "start_post_build_injector",
+        "start_time": 1758665058.3793888,
+        "end_time": 1758665144.2035072,
+        "duration_minutes": 1.4304019729296367,
+        "duration_seconds": 85.8241183757782,
+        "errors": 11072,
+        "objects_injected": 179,
+        "partition_files_injected": 1871,
+        "files_injected": 2050,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11072
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0927165e2ad36cfb0b56a",
+        "method": "start_post_build_injector",
+        "start_time": 1758670832.1358714,
+        "end_time": 1758670917.975985,
+        "duration_minutes": 1.430668560663859,
+        "duration_seconds": 85.84011363983154,
+        "errors": 11072,
+        "objects_injected": 179,
+        "partition_files_injected": 1871,
+        "files_injected": 2050,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11072
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0a98665e2ad36cfc1a00d",
+        "method": "start_post_build_injector",
+        "start_time": 1758676848.5874536,
+        "end_time": 1758676905.838838,
+        "duration_minutes": 0.9541897416114807,
+        "duration_seconds": 57.25138449668884,
+        "errors": 6520,
+        "objects_injected": 176,
+        "partition_files_injected": 5135,
+        "files_injected": 5311,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6520
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0aaf165e2ad36cfc2101f",
+        "method": "start_post_build_injector",
+        "start_time": 1758682831.9143293,
+        "end_time": 1758682908.8352334,
+        "duration_minutes": 1.282015069325765,
+        "duration_seconds": 76.9209041595459,
+        "errors": 12854,
+        "objects_injected": 176,
+        "partition_files_injected": 5643,
+        "files_injected": 5819,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 12854
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0aca965e2ad36cfc2478d",
+        "method": "start_post_build_injector",
+        "start_time": 1758688788.8306243,
+        "end_time": 1758688875.2490692,
+        "duration_minutes": 1.4403074145317079,
+        "duration_seconds": 86.41844487190247,
+        "errors": 11072,
+        "objects_injected": 179,
+        "partition_files_injected": 1871,
+        "files_injected": 2050,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11072
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0bb2b65e2ad36cfcb8e24",
+        "method": "start_post_build_injector",
+        "start_time": 1758694651.7885718,
+        "end_time": 1758694725.0003893,
+        "duration_minutes": 1.2201969583829244,
+        "duration_seconds": 73.21181750297546,
+        "errors": 9813,
+        "objects_injected": 180,
+        "partition_files_injected": 2345,
+        "files_injected": 2525,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9813
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0da2165e2ad36cfe19b3d",
+        "method": "start_post_build_injector",
+        "start_time": 1758700568.7040696,
+        "end_time": 1758700632.623006,
+        "duration_minutes": 1.0653156081835429,
+        "duration_seconds": 63.91893649101257,
+        "errors": 9801,
+        "objects_injected": 180,
+        "partition_files_injected": 2361,
+        "files_injected": 2541,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9801
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b0fbdd65e2ad36cffe3d1f",
+        "method": "start_post_build_injector",
+        "start_time": 1758706490.8348672,
+        "end_time": 1758706569.3917427,
+        "duration_minutes": 1.3092812577883401,
+        "duration_seconds": 78.55687546730042,
+        "errors": 14036,
+        "objects_injected": 177,
+        "partition_files_injected": 5350,
+        "files_injected": 5527,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14036
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1075d65e2ad36cf0776d5",
+        "method": "start_post_build_injector",
+        "start_time": 1758712354.9551156,
+        "end_time": 1758712418.0947957,
+        "duration_minutes": 1.0523280024528503,
+        "duration_seconds": 63.13968014717102,
+        "errors": 9801,
+        "objects_injected": 180,
+        "partition_files_injected": 2361,
+        "files_injected": 2541,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9801
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b10b9365e2ad36cf09d98f",
+        "method": "start_post_build_injector",
+        "start_time": 1758718309.4508183,
+        "end_time": 1758718390.700642,
+        "duration_minutes": 1.3541637301445006,
+        "duration_seconds": 81.24982380867004,
+        "errors": 10766,
+        "objects_injected": 179,
+        "partition_files_injected": 1871,
+        "files_injected": 2050,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10766
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1187e65e2ad36cf157cea",
+        "method": "start_post_build_injector",
+        "start_time": 1758724254.1864457,
+        "end_time": 1758724291.295996,
+        "duration_minutes": 0.6184925039609274,
+        "duration_seconds": 37.10955023765564,
+        "errors": 2101,
+        "objects_injected": 163,
+        "partition_files_injected": 1571,
+        "files_injected": 1734,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2101
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b11f5a65e2ad36cf192fbb",
+        "method": "start_post_build_injector",
+        "start_time": 1758730124.1484396,
+        "end_time": 1758730181.1091638,
+        "duration_minutes": 0.9493454019228618,
+        "duration_seconds": 56.960724115371704,
+        "errors": 6561,
+        "objects_injected": 176,
+        "partition_files_injected": 5072,
+        "files_injected": 5248,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6561
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1266865e2ad36cf200744",
+        "method": "start_post_build_injector",
+        "start_time": 1758736111.4407337,
+        "end_time": 1758736180.3055797,
+        "duration_minutes": 1.1477474331855775,
+        "duration_seconds": 68.86484599113464,
+        "errors": 9801,
+        "objects_injected": 180,
+        "partition_files_injected": 2361,
+        "files_injected": 2541,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9801
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b134be65e2ad36cf2b556f",
+        "method": "start_post_build_injector",
+        "start_time": 1758742183.227471,
+        "end_time": 1758742254.833194,
+        "duration_minutes": 1.1934287150700886,
+        "duration_seconds": 71.60572290420532,
+        "errors": 9816,
+        "objects_injected": 180,
+        "partition_files_injected": 2848,
+        "files_injected": 3028,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9816
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1438565e2ad36cf374105",
+        "method": "start_post_build_injector",
+        "start_time": 1758748397.3856268,
+        "end_time": 1758748485.8765168,
+        "duration_minutes": 1.474848167101542,
+        "duration_seconds": 88.49089002609253,
+        "errors": 14972,
+        "objects_injected": 176,
+        "partition_files_injected": 5722,
+        "files_injected": 5898,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14972
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1515465e2ad36cf416220",
+        "method": "start_post_build_injector",
+        "start_time": 1758754716.7430677,
+        "end_time": 1758754798.4345102,
+        "duration_minutes": 1.3615240414937337,
+        "duration_seconds": 81.69144248962402,
+        "errors": 14894,
+        "objects_injected": 177,
+        "partition_files_injected": 5383,
+        "files_injected": 5560,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14894
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-2",
+        "firmware_id": "68b1579065e2ad36cf46a90a",
+        "method": "start_post_build_injector",
+        "start_time": 1758760869.0106401,
+        "end_time": 1758760906.7914214,
+        "duration_minutes": 0.6296796878178914,
+        "duration_seconds": 37.780781269073486,
+        "errors": 2346,
+        "objects_injected": 164,
+        "partition_files_injected": 1349,
+        "files_injected": 1513,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2346
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af110965e2ad36cf7475cd",
+        "method": "start_post_build_injector",
+        "start_time": 1758101838.2454097,
+        "end_time": 1758101868.7513847,
+        "duration_minutes": 0.5084329168001811,
+        "duration_seconds": 30.505975008010864,
+        "errors": 2415,
+        "objects_injected": 142,
+        "partition_files_injected": 1302,
+        "files_injected": 1444,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2414,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af163465e2ad36cf783058",
+        "method": "start_post_build_injector",
+        "start_time": 1758107878.1119158,
+        "end_time": 1758107935.3771205,
+        "duration_minutes": 0.9544200778007508,
+        "duration_seconds": 57.265204668045044,
+        "errors": 6519,
+        "objects_injected": 153,
+        "partition_files_injected": 5297,
+        "files_injected": 5450,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6518,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af169465e2ad36cf7871b7",
+        "method": "start_post_build_injector",
+        "start_time": 1758113884.306737,
+        "end_time": 1758113947.1014297,
+        "duration_minutes": 1.0465782125790914,
+        "duration_seconds": 62.79469275474548,
+        "errors": 10247,
+        "objects_injected": 154,
+        "partition_files_injected": 5425,
+        "files_injected": 5579,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10246,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af219965e2ad36cf8260b2",
+        "method": "start_post_build_injector",
+        "start_time": 1758119981.6215425,
+        "end_time": 1758120036.0695364,
+        "duration_minutes": 0.9074665665626526,
+        "duration_seconds": 54.447993993759155,
+        "errors": 6797,
+        "objects_injected": 154,
+        "partition_files_injected": 5599,
+        "files_injected": 5753,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6796,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af271f65e2ad36cf87f7a9",
+        "method": "start_post_build_injector",
+        "start_time": 1758125929.4422288,
+        "end_time": 1758125988.318957,
+        "duration_minutes": 0.9812788049379985,
+        "duration_seconds": 58.87672829627991,
+        "errors": 8543,
+        "objects_injected": 153,
+        "partition_files_injected": 5416,
+        "files_injected": 5569,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 8542,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af2c8865e2ad36cf8d7c82",
+        "method": "start_post_build_injector",
+        "start_time": 1758131971.9095924,
+        "end_time": 1758132028.259259,
+        "duration_minutes": 0.9391611099243165,
+        "duration_seconds": 56.349666595458984,
+        "errors": 9107,
+        "objects_injected": 152,
+        "partition_files_injected": 5318,
+        "files_injected": 5470,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9106,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af2f0565e2ad36cf8ec78b",
+        "method": "start_post_build_injector",
+        "start_time": 1758137968.27961,
+        "end_time": 1758138034.6647341,
+        "duration_minutes": 1.1064187367757161,
+        "duration_seconds": 66.38512420654297,
+        "errors": 14971,
+        "objects_injected": 154,
+        "partition_files_injected": 5336,
+        "files_injected": 5490,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14970,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af388565e2ad36cf94dea9",
+        "method": "start_post_build_injector",
+        "start_time": 1758143952.0004377,
+        "end_time": 1758144008.0128045,
+        "duration_minutes": 0.9335394461949666,
+        "duration_seconds": 56.012366771698,
+        "errors": 6873,
+        "objects_injected": 154,
+        "partition_files_injected": 5499,
+        "files_injected": 5653,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6872,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af426d65e2ad36cf9f9ae2",
+        "method": "start_post_build_injector",
+        "start_time": 1758149927.0144734,
+        "end_time": 1758150000.5975971,
+        "duration_minutes": 1.2263853947321575,
+        "duration_seconds": 73.58312368392944,
+        "errors": 15588,
+        "objects_injected": 154,
+        "partition_files_injected": 5627,
+        "files_injected": 5781,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15587,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af42df65e2ad36cf9fe2e2",
+        "method": "start_post_build_injector",
+        "start_time": 1758155887.3792398,
+        "end_time": 1758155938.1400397,
+        "duration_minutes": 0.8460133314132691,
+        "duration_seconds": 50.76079988479614,
+        "errors": 6521,
+        "objects_injected": 151,
+        "partition_files_injected": 4950,
+        "files_injected": 5101,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6520,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af4a2965e2ad36cfa4c3a7",
+        "method": "start_post_build_injector",
+        "start_time": 1758161819.6667793,
+        "end_time": 1758161871.682465,
+        "duration_minutes": 0.8669280966122945,
+        "duration_seconds": 52.01568579673767,
+        "errors": 6759,
+        "objects_injected": 151,
+        "partition_files_injected": 5169,
+        "files_injected": 5320,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6758,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af527e65e2ad36cfab0359",
+        "method": "start_post_build_injector",
+        "start_time": 1758167829.4121509,
+        "end_time": 1758167897.3311253,
+        "duration_minutes": 1.1319829066594442,
+        "duration_seconds": 67.91897439956665,
+        "errors": 14970,
+        "objects_injected": 154,
+        "partition_files_injected": 5348,
+        "files_injected": 5502,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14969,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af568b65e2ad36cfae4ae0",
+        "method": "start_post_build_injector",
+        "start_time": 1758173809.4645114,
+        "end_time": 1758173838.8562067,
+        "duration_minutes": 0.4898615876833598,
+        "duration_seconds": 29.391695261001587,
+        "errors": 2110,
+        "objects_injected": 141,
+        "partition_files_injected": 1494,
+        "files_injected": 1635,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2109,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af5a9765e2ad36cfb14a36",
+        "method": "start_post_build_injector",
+        "start_time": 1758179773.2403667,
+        "end_time": 1758179829.2954493,
+        "duration_minutes": 0.9342513759930928,
+        "duration_seconds": 56.05508255958557,
+        "errors": 9918,
+        "objects_injected": 156,
+        "partition_files_injected": 2763,
+        "files_injected": 2919,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9917,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af61ae65e2ad36cfb8b700",
+        "method": "start_post_build_injector",
+        "start_time": 1758185953.225198,
+        "end_time": 1758186021.0097399,
+        "duration_minutes": 1.1297423640886943,
+        "duration_seconds": 67.78454184532166,
+        "errors": 14973,
+        "objects_injected": 154,
+        "partition_files_injected": 5336,
+        "files_injected": 5490,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14972,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af64ac65e2ad36cfbb02d6",
+        "method": "start_post_build_injector",
+        "start_time": 1758191709.9788957,
+        "end_time": 1758191765.38749,
+        "duration_minutes": 0.9234765728314718,
+        "duration_seconds": 55.408594369888306,
+        "errors": 9919,
+        "objects_injected": 156,
+        "partition_files_injected": 2764,
+        "files_injected": 2920,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9918,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af731865e2ad36cfc67367",
+        "method": "start_post_build_injector",
+        "start_time": 1758197614.843798,
+        "end_time": 1758197803.0905836,
+        "duration_minutes": 3.137446427345276,
+        "duration_seconds": 188.24678564071655,
+        "errors": 73173,
+        "objects_injected": 129,
+        "partition_files_injected": 3297,
+        "files_injected": 3426,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 73172,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af7c2965e2ad36cfcd1488",
+        "method": "start_post_build_injector",
+        "start_time": 1758203717.1900148,
+        "end_time": 1758203775.3339298,
+        "duration_minutes": 0.969065248966217,
+        "duration_seconds": 58.14391493797302,
+        "errors": 9918,
+        "objects_injected": 156,
+        "partition_files_injected": 2763,
+        "files_injected": 2919,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9917,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af7f6065e2ad36cfcfb4bc",
+        "method": "start_post_build_injector",
+        "start_time": 1758209473.9280577,
+        "end_time": 1758209549.9872797,
+        "duration_minutes": 1.2676536997159322,
+        "duration_seconds": 76.05922198295593,
+        "errors": 11171,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11170,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af849165e2ad36cfd4a6d0",
+        "method": "start_post_build_injector",
+        "start_time": 1758215306.7177944,
+        "end_time": 1758215336.6026888,
+        "duration_minutes": 0.4980815728505453,
+        "duration_seconds": 29.884894371032715,
+        "errors": 2342,
+        "objects_injected": 142,
+        "partition_files_injected": 1304,
+        "files_injected": 1446,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2341,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68af9cd365e2ad36cfe8f693",
+        "method": "start_post_build_injector",
+        "start_time": 1758221252.6931636,
+        "end_time": 1758221320.8724365,
+        "duration_minutes": 1.136321214834849,
+        "duration_seconds": 68.17927289009094,
+        "errors": 13426,
+        "objects_injected": 98,
+        "partition_files_injected": 5184,
+        "files_injected": 5282,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 13425,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afa42065e2ad36cfef8e2e",
+        "method": "start_post_build_injector",
+        "start_time": 1758227111.7618356,
+        "end_time": 1758227140.9309015,
+        "duration_minutes": 0.4861510992050171,
+        "duration_seconds": 29.169065952301025,
+        "errors": 1996,
+        "objects_injected": 142,
+        "partition_files_injected": 1317,
+        "files_injected": 1459,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1995,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afab5665e2ad36cff54311",
+        "method": "start_post_build_injector",
+        "start_time": 1758232946.067709,
+        "end_time": 1758232999.122734,
+        "duration_minutes": 0.8842504183451335,
+        "duration_seconds": 53.05502510070801,
+        "errors": 6777,
+        "objects_injected": 154,
+        "partition_files_injected": 5219,
+        "files_injected": 5373,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6776,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afb0cd65e2ad36cffa1f06",
+        "method": "start_post_build_injector",
+        "start_time": 1758238740.9024627,
+        "end_time": 1758238768.658336,
+        "duration_minutes": 0.46259788672129315,
+        "duration_seconds": 27.755873203277588,
+        "errors": 2102,
+        "objects_injected": 86,
+        "partition_files_injected": 1054,
+        "files_injected": 1140,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2101,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afb81b65e2ad36cf02b66a",
+        "method": "start_post_build_injector",
+        "start_time": 1758244584.4124832,
+        "end_time": 1758244647.456897,
+        "duration_minutes": 1.0507402300834656,
+        "duration_seconds": 63.044413805007935,
+        "errors": 10293,
+        "objects_injected": 154,
+        "partition_files_injected": 5425,
+        "files_injected": 5579,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10292,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afba2865e2ad36cf03c0f0",
+        "method": "start_post_build_injector",
+        "start_time": 1758250441.396859,
+        "end_time": 1758250512.1002085,
+        "duration_minutes": 1.1783891598383585,
+        "duration_seconds": 70.70334959030151,
+        "errors": 15599,
+        "objects_injected": 154,
+        "partition_files_injected": 5339,
+        "files_injected": 5493,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15598,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afbec865e2ad36cf05f3b3",
+        "method": "start_post_build_injector",
+        "start_time": 1758256176.525208,
+        "end_time": 1758256229.1840591,
+        "duration_minutes": 0.8776475191116333,
+        "duration_seconds": 52.658851146698,
+        "errors": 10159,
+        "objects_injected": 156,
+        "partition_files_injected": 3081,
+        "files_injected": 3237,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10158,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afd0b165e2ad36cf15fc55",
+        "method": "start_post_build_injector",
+        "start_time": 1758262298.413238,
+        "end_time": 1758262348.4921632,
+        "duration_minutes": 0.8346487522125244,
+        "duration_seconds": 50.078925132751465,
+        "errors": 6603,
+        "objects_injected": 154,
+        "partition_files_injected": 5083,
+        "files_injected": 5237,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6602,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afd6e865e2ad36cf1c1b8a",
+        "method": "start_post_build_injector",
+        "start_time": 1758268232.223237,
+        "end_time": 1758268305.4002872,
+        "duration_minutes": 1.219617501894633,
+        "duration_seconds": 73.17705011367798,
+        "errors": 15478,
+        "objects_injected": 154,
+        "partition_files_injected": 5692,
+        "files_injected": 5846,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 15477,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afda9765e2ad36cf1e12a5",
+        "method": "start_post_build_injector",
+        "start_time": 1758274281.203728,
+        "end_time": 1758274345.0684192,
+        "duration_minutes": 1.0644115209579468,
+        "duration_seconds": 63.86469125747681,
+        "errors": 10313,
+        "objects_injected": 154,
+        "partition_files_injected": 5336,
+        "files_injected": 5490,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10312,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68afe98665e2ad36cf29f259",
+        "method": "start_post_build_injector",
+        "start_time": 1758280394.5951378,
+        "end_time": 1758280467.0887785,
+        "duration_minutes": 1.2082273443539937,
+        "duration_seconds": 72.49364066123962,
+        "errors": 13769,
+        "objects_injected": 154,
+        "partition_files_injected": 5741,
+        "files_injected": 5895,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 13768,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68aff32465e2ad36cf30b876",
+        "method": "start_post_build_injector",
+        "start_time": 1758286767.2224772,
+        "end_time": 1758286834.2535114,
+        "duration_minutes": 1.1171839038530986,
+        "duration_seconds": 67.03103423118591,
+        "errors": 9904,
+        "objects_injected": 157,
+        "partition_files_injected": 2278,
+        "files_injected": 2435,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9903,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0002665e2ad36cf3b2daa",
+        "method": "start_post_build_injector",
+        "start_time": 1758292715.2671807,
+        "end_time": 1758292778.1661706,
+        "duration_minutes": 1.048316498597463,
+        "duration_seconds": 62.89898991584778,
+        "errors": 6848,
+        "objects_injected": 154,
+        "partition_files_injected": 5477,
+        "files_injected": 5631,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6847,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b012c465e2ad36cf49c406",
+        "method": "start_post_build_injector",
+        "start_time": 1758298667.0462987,
+        "end_time": 1758298720.656039,
+        "duration_minutes": 0.8934956709543864,
+        "duration_seconds": 53.609740257263184,
+        "errors": 10145,
+        "objects_injected": 156,
+        "partition_files_injected": 3077,
+        "files_injected": 3233,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10144,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b01de365e2ad36cf548d00",
+        "method": "start_post_build_injector",
+        "start_time": 1758304671.6688986,
+        "end_time": 1758304739.867255,
+        "duration_minutes": 1.1366392731666566,
+        "duration_seconds": 68.19835638999939,
+        "errors": 14993,
+        "objects_injected": 154,
+        "partition_files_injected": 5334,
+        "files_injected": 5488,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14992,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0212265e2ad36cf572d58",
+        "method": "start_post_build_injector",
+        "start_time": 1758310657.9918206,
+        "end_time": 1758310718.6717453,
+        "duration_minutes": 1.0113320787747702,
+        "duration_seconds": 60.679924726486206,
+        "errors": 6866,
+        "objects_injected": 154,
+        "partition_files_injected": 5575,
+        "files_injected": 5729,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6865,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0273f65e2ad36cf5a2c94",
+        "method": "start_post_build_injector",
+        "start_time": 1758316744.6260467,
+        "end_time": 1758316796.81354,
+        "duration_minutes": 0.8697915554046631,
+        "duration_seconds": 52.187493324279785,
+        "errors": 6639,
+        "objects_injected": 154,
+        "partition_files_injected": 5043,
+        "files_injected": 5197,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6638,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b027f465e2ad36cf5a471d",
+        "method": "start_post_build_injector",
+        "start_time": 1758322779.7045023,
+        "end_time": 1758322853.8738663,
+        "duration_minutes": 1.2361560662587483,
+        "duration_seconds": 74.1693639755249,
+        "errors": 14953,
+        "objects_injected": 154,
+        "partition_files_injected": 5336,
+        "files_injected": 5490,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14952,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b04b0965e2ad36cf761c59",
+        "method": "start_post_build_injector",
+        "start_time": 1758328894.2878313,
+        "end_time": 1758328953.1914341,
+        "duration_minutes": 0.9817267139752706,
+        "duration_seconds": 58.903602838516235,
+        "errors": 9107,
+        "objects_injected": 152,
+        "partition_files_injected": 5318,
+        "files_injected": 5470,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9106,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0672865e2ad36cf8f12ac",
+        "method": "start_post_build_injector",
+        "start_time": 1758335019.9478755,
+        "end_time": 1758335077.5214932,
+        "duration_minutes": 0.9595602949460348,
+        "duration_seconds": 57.573617696762085,
+        "errors": 6786,
+        "objects_injected": 154,
+        "partition_files_injected": 5207,
+        "files_injected": 5361,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6785,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0705165e2ad36cf97ab46",
+        "method": "start_post_build_injector",
+        "start_time": 1758341069.7388015,
+        "end_time": 1758341154.539991,
+        "duration_minutes": 1.413353157043457,
+        "duration_seconds": 84.80118942260742,
+        "errors": 10867,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10866,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0725165e2ad36cf99ac5c",
+        "method": "start_post_build_injector",
+        "start_time": 1758347176.2868876,
+        "end_time": 1758347208.070241,
+        "duration_minutes": 0.5297225554784138,
+        "duration_seconds": 31.783353328704834,
+        "errors": 1970,
+        "objects_injected": 86,
+        "partition_files_injected": 1061,
+        "files_injected": 1147,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 1969,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b077d765e2ad36cf9da4f7",
+        "method": "start_post_build_injector",
+        "start_time": 1758353229.5264974,
+        "end_time": 1758353249.0554793,
+        "duration_minutes": 0.3254830320676168,
+        "duration_seconds": 19.528981924057007,
+        "errors": 6720,
+        "objects_injected": 0,
+        "partition_files_injected": 300,
+        "files_injected": 300,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6720
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0807165e2ad36cfa7657f",
+        "method": "start_post_build_injector",
+        "start_time": 1758359263.4493353,
+        "end_time": 1758359297.7558348,
+        "duration_minutes": 0.5717749913533529,
+        "duration_seconds": 34.30649948120117,
+        "errors": 2205,
+        "objects_injected": 141,
+        "partition_files_injected": 1442,
+        "files_injected": 1583,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2204,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b084fb65e2ad36cfa941d0",
+        "method": "start_post_build_injector",
+        "start_time": 1758365413.8782523,
+        "end_time": 1758365469.4218612,
+        "duration_minutes": 0.9257268150647481,
+        "duration_seconds": 55.54360890388489,
+        "errors": 6583,
+        "objects_injected": 154,
+        "partition_files_injected": 5083,
+        "files_injected": 5237,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6582,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0863465e2ad36cfa9f965",
+        "method": "start_post_build_injector",
+        "start_time": 1758371493.6214454,
+        "end_time": 1758371525.4326797,
+        "duration_minutes": 0.5301872372627259,
+        "duration_seconds": 31.81123423576355,
+        "errors": 2451,
+        "objects_injected": 142,
+        "partition_files_injected": 1372,
+        "files_injected": 1514,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2450,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0892a65e2ad36cfab2516",
+        "method": "start_post_build_injector",
+        "start_time": 1758377492.9445343,
+        "end_time": 1758377575.9024065,
+        "duration_minutes": 1.3826312025388081,
+        "duration_seconds": 82.95787215232849,
+        "errors": 11173,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11172,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0927165e2ad36cfb0b56a",
+        "method": "start_post_build_injector",
+        "start_time": 1758383547.8641798,
+        "end_time": 1758383630.2700574,
+        "duration_minutes": 1.3734312931696573,
+        "duration_seconds": 82.40587759017944,
+        "errors": 11173,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11172,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0a98665e2ad36cfc1a00d",
+        "method": "start_post_build_injector",
+        "start_time": 1758389678.3290572,
+        "end_time": 1758389731.202366,
+        "duration_minutes": 0.8812218149503072,
+        "duration_seconds": 52.87330889701843,
+        "errors": 6592,
+        "objects_injected": 154,
+        "partition_files_injected": 5083,
+        "files_injected": 5237,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 6591,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0aaf165e2ad36cfc2101f",
+        "method": "start_post_build_injector",
+        "start_time": 1758395848.0998452,
+        "end_time": 1758395923.9658349,
+        "duration_minutes": 1.2644331614176432,
+        "duration_seconds": 75.8659896850586,
+        "errors": 12936,
+        "objects_injected": 154,
+        "partition_files_injected": 5581,
+        "files_injected": 5735,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 12935,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0aca965e2ad36cfc2478d",
+        "method": "start_post_build_injector",
+        "start_time": 1758401895.544631,
+        "end_time": 1758401971.167942,
+        "duration_minutes": 1.2603885173797607,
+        "duration_seconds": 75.62331104278564,
+        "errors": 11173,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 11172,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0bb2b65e2ad36cfcb8e24",
+        "method": "start_post_build_injector",
+        "start_time": 1758407656.1191318,
+        "end_time": 1758407721.8414602,
+        "duration_minutes": 1.0953721404075623,
+        "duration_seconds": 65.72232842445374,
+        "errors": 9905,
+        "objects_injected": 157,
+        "partition_files_injected": 2274,
+        "files_injected": 2431,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9904,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0da2165e2ad36cfe19b3d",
+        "method": "start_post_build_injector",
+        "start_time": 1758413835.631261,
+        "end_time": 1758413890.4047089,
+        "duration_minutes": 0.9128907958666483,
+        "duration_seconds": 54.7734477519989,
+        "errors": 9895,
+        "objects_injected": 157,
+        "partition_files_injected": 2288,
+        "files_injected": 2445,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9894,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b0fbdd65e2ad36cffe3d1f",
+        "method": "start_post_build_injector",
+        "start_time": 1758419985.825139,
+        "end_time": 1758420061.3232517,
+        "duration_minutes": 1.2583018779754638,
+        "duration_seconds": 75.49811267852783,
+        "errors": 14105,
+        "objects_injected": 154,
+        "partition_files_injected": 5302,
+        "files_injected": 5456,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 14104,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1075d65e2ad36cf0776d5",
+        "method": "start_post_build_injector",
+        "start_time": 1758426238.8769062,
+        "end_time": 1758426293.5245001,
+        "duration_minutes": 0.9107932329177857,
+        "duration_seconds": 54.64759397506714,
+        "errors": 9895,
+        "objects_injected": 157,
+        "partition_files_injected": 2288,
+        "files_injected": 2445,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 9894,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b10b9365e2ad36cf09d98f",
+        "method": "start_post_build_injector",
+        "start_time": 1758432415.373403,
+        "end_time": 1758432500.7571528,
+        "duration_minutes": 1.4230624953905742,
+        "duration_seconds": 85.38374972343445,
+        "errors": 10867,
+        "objects_injected": 156,
+        "partition_files_injected": 1790,
+        "files_injected": 1946,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 10866,
+            "Error adding APEX": 1
+        }
+    },
+    {
+        "hostname": "firmwaredroid-aosp-builder-1",
+        "firmware_id": "68b1187e65e2ad36cf157cea",
+        "method": "start_post_build_injector",
+        "start_time": 1758438702.6453557,
+        "end_time": 1758438738.1762078,
+        "duration_minutes": 0.592180867989858,
+        "duration_seconds": 35.53085207939148,
+        "errors": 2194,
+        "objects_injected": 141,
+        "partition_files_injected": 1500,
+        "files_injected": 1641,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Skipped File post-inject": 2193,
+            "Error adding APEX": 1
+        }
+    }
+]

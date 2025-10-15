@@ -1,0 +1,18 @@
+FROM fmd-emulator_arm64
+
+################################
+# Copy system image
+################################
+COPY ./image_artefacts/ /android/sdk/system-images/android/
+#RUN unzip /android/sdk/system-images/android/*.zip -d /android/sdk/system-images/android/
+
+###################################
+# Create start script
+###################################
+COPY ./emulator/emulator_start.sh /android/
+RUN chmod +x /android/emulator_start.sh
+#CMD ["bash", "-c", "/android/emulator_start.sh"]
+
+# Start SSH
+EXPOSE 22
+CMD ["/usr/sbin/sshd", "-D"]

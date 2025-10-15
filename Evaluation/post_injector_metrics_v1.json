@@ -1,0 +1,4564 @@
+[   
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745481002.702043,
+        "end_time": 1745481071.1400166,
+        "duration_minutes": 1.1406328916549682,
+        "duration_seconds": 68.4379734992981,
+        "errors": 4833,
+        "objects_injected": 955,
+        "partition_files_injected": 6516,
+        "files_injected": 7471,
+        "errors_file_type_frequencies": {
+            "rc": 198,
+            "bin": 140,
+            "so": 2630,
+            "ko": 32,
+            "xml": 158,
+            "apk": 204,
+            "prop": 249,
+            "sh": 8,
+            "cil": 33,
+            "odex": 434,
+            "service": 2,
+            "qti": 3,
+            "clearkey": 1,
+            "policy": 2,
+            "st": 1,
+            "raw": 3,
+            "sha256": 6,
+            "txt": 20,
+            "multihal": 1,
+            "xiaomi": 1,
+            "widevine": 1,
+            "jar": 70,
+            "vdex": 98,
+            "mf": 24,
+            "sf": 24,
+            "pb": 64,
+            "img": 9,
+            "art": 33,
+            "arsc": 6,
+            "apex": 19,
+            "gz": 8,
+            "rsa": 24,
+            "oat": 30,
+            "dat": 2,
+            "json": 4,
+            "zip": 1,
+            "capex": 1,
+            "exfat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4833
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745487483.7448,
+        "end_time": 1745487488.8976665,
+        "duration_minutes": 0.08588110605875651,
+        "duration_seconds": 5.152866363525391,
+        "errors": 406,
+        "objects_injected": 6,
+        "partition_files_injected": 696,
+        "files_injected": 702,
+        "errors_file_type_frequencies": {
+            "odex": 50,
+            "apk": 122,
+            "so": 87,
+            "prop": 17,
+            "capex": 11,
+            "cil": 8,
+            "rc": 24,
+            "art": 16,
+            "xml": 8,
+            "vdex": 10,
+            "apex": 6,
+            "oat": 16,
+            "sha256": 1,
+            "jar": 5
+        },
+        "errors_grouped": {
+            "Unknown Errors": 406
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745493733.634602,
+        "end_time": 1745493755.402897,
+        "duration_minutes": 0.362804913520813,
+        "duration_seconds": 21.76829481124878,
+        "errors": 194,
+        "objects_injected": 32,
+        "partition_files_injected": 191,
+        "files_injected": 223,
+        "errors_file_type_frequencies": {
+            "so": 97,
+            "art": 12,
+            "rc": 5,
+            "apex": 5,
+            "cil": 4,
+            "odex": 25,
+            "xml": 3,
+            "oat": 12,
+            "apk": 11,
+            "prop": 1,
+            "jar": 1,
+            "vdex": 2,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 194
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745499929.2084413,
+        "end_time": 1745500013.9374084,
+        "duration_minutes": 1.4121494531631469,
+        "duration_seconds": 84.72896718978882,
+        "errors": 1673,
+        "objects_injected": 24,
+        "partition_files_injected": 8311,
+        "files_injected": 8335,
+        "errors_file_type_frequencies": {
+            "xml": 86,
+            "binarypb": 186,
+            "default": 1,
+            "so": 545,
+            "rc": 83,
+            "prop": 1,
+            "trusty": 2,
+            "generic": 1,
+            "bin": 8,
+            "txt": 8,
+            "img": 21,
+            "apk": 135,
+            "multihal": 1,
+            "odex": 193,
+            "pb": 90,
+            "gs101": 2,
+            "gz": 18,
+            "citadel": 3,
+            "pixel": 4,
+            "bcmbtlinux": 1,
+            "widevine": 1,
+            "sf": 20,
+            "rsa": 20,
+            "arsc": 3,
+            "clearkey": 1,
+            "cs40l25": 1,
+            "apex": 1,
+            "goodix": 1,
+            "mf": 20,
+            "vendor": 1,
+            "art": 22,
+            "cil": 2,
+            "json": 8,
+            "jar": 25,
+            "oat": 10,
+            "vdex": 10,
+            "o": 2,
+            "0": 3,
+            "policy": 6
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1673
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745506258.0907373,
+        "end_time": 1745506320.462791,
+        "duration_minutes": 1.0395342270533243,
+        "duration_seconds": 62.37205362319946,
+        "errors": 366,
+        "objects_injected": 61,
+        "partition_files_injected": 8742,
+        "files_injected": 8803,
+        "errors_file_type_frequencies": {
+            "png": 1,
+            "service": 1,
+            "odex": 95,
+            "apk": 42,
+            "qti": 1,
+            "so": 45,
+            "img": 5,
+            "pb": 46,
+            "arsc": 5,
+            "sf": 5,
+            "json": 5,
+            "xml": 19,
+            "rc": 5,
+            "rsa": 5,
+            "vdex": 10,
+            "capex": 1,
+            "mf": 5,
+            "dat": 1,
+            "gz": 4,
+            "jar": 11,
+            "txt": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 366
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745512781.3943672,
+        "end_time": 1745512786.2261982,
+        "duration_minutes": 0.08053051630655925,
+        "duration_seconds": 4.831830978393555,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 88,
+        "files_injected": 88,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745519051.225479,
+        "end_time": 1745519056.6431959,
+        "duration_minutes": 0.09029528299967447,
+        "duration_seconds": 5.417716979980469,
+        "errors": 30,
+        "objects_injected": 2,
+        "partition_files_injected": 76,
+        "files_injected": 78,
+        "errors_file_type_frequencies": {
+            "prop": 2,
+            "apk": 14,
+            "odex": 13
+        },
+        "errors_grouped": {
+            "Unknown Errors": 30
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745525124.9311001,
+        "end_time": 1745525126.7905462,
+        "duration_minutes": 0.03099076747894287,
+        "duration_seconds": 1.8594460487365723,
+        "errors": 2,
+        "objects_injected": 0,
+        "partition_files_injected": 3,
+        "files_injected": 3,
+        "errors_file_type_frequencies": {
+            "so": 1,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745531164.9534647,
+        "end_time": 1745531167.9252715,
+        "duration_minutes": 0.04953011274337769,
+        "duration_seconds": 2.971806764602661,
+        "errors": 65,
+        "objects_injected": 0,
+        "partition_files_injected": 68,
+        "files_injected": 68,
+        "errors_file_type_frequencies": {
+            "so": 9,
+            "prop": 34,
+            "apk": 17,
+            "odex": 4,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 65
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745537259.583692,
+        "end_time": 1745537263.0796688,
+        "duration_minutes": 0.05826627810796102,
+        "duration_seconds": 3.495976686477661,
+        "errors": 17,
+        "objects_injected": 0,
+        "partition_files_injected": 6,
+        "files_injected": 6,
+        "errors_file_type_frequencies": {
+            "so": 4,
+            "odex": 4,
+            "apk": 5,
+            "vdex": 2,
+            "xml": 1,
+            "jar": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 17
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745543624.6268058,
+        "end_time": 1745543632.023416,
+        "duration_minutes": 0.12327683766682943,
+        "duration_seconds": 7.396610260009766,
+        "errors": 12,
+        "objects_injected": 2,
+        "partition_files_injected": 292,
+        "files_injected": 294,
+        "errors_file_type_frequencies": {
+            "so": 9,
+            "odex": 1,
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 12
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745549902.717225,
+        "end_time": 1745549924.5660632,
+        "duration_minutes": 0.36414730151494346,
+        "duration_seconds": 21.848838090896606,
+        "errors": 1645,
+        "objects_injected": 40,
+        "partition_files_injected": 3196,
+        "files_injected": 3236,
+        "errors_file_type_frequencies": {
+            "bin": 62,
+            "so": 880,
+            "rc": 20,
+            "prop": 236,
+            "xml": 31,
+            "ko": 1,
+            "odex": 119,
+            "apk": 124,
+            "cil": 4,
+            "txt": 23,
+            "gz": 6,
+            "arsc": 2,
+            "sf": 5,
+            "vdex": 8,
+            "jar": 25,
+            "pb": 25,
+            "mf": 5,
+            "apex": 2,
+            "rsa": 5,
+            "img": 5,
+            "32rc": 2,
+            "o": 6,
+            "dat": 2,
+            "prof": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1645
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745556161.24312,
+        "end_time": 1745556161.4820766,
+        "duration_minutes": 0.003982611497243245,
+        "duration_seconds": 0.23895668983459473,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745562589.6399815,
+        "end_time": 1745562609.4795024,
+        "duration_minutes": 0.3306586821873983,
+        "duration_seconds": 19.839520931243896,
+        "errors": 2132,
+        "objects_injected": 277,
+        "partition_files_injected": 3381,
+        "files_injected": 3658,
+        "errors_file_type_frequencies": {
+            "so": 1508,
+            "sh": 9,
+            "rc": 83,
+            "xml": 30,
+            "apk": 158,
+            "face": 1,
+            "qti": 1,
+            "0": 1,
+            "service_64": 1,
+            "service": 1,
+            "sha256": 3,
+            "prop": 1,
+            "raw": 1,
+            "odex": 22,
+            "pb": 23,
+            "txt": 15,
+            "exfat": 1,
+            "ko": 23,
+            "oat": 20,
+            "art": 20
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2132
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745569119.7135744,
+        "end_time": 1745569122.7811987,
+        "duration_minutes": 0.05112707217534383,
+        "duration_seconds": 3.06762433052063,
+        "errors": 3,
+        "objects_injected": 0,
+        "partition_files_injected": 8,
+        "files_injected": 8,
+        "errors_file_type_frequencies": {
+            "capex": 2,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745575177.0189333,
+        "end_time": 1745575177.252703,
+        "duration_minutes": 0.0038961609204610187,
+        "duration_seconds": 0.23376965522766113,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745581456.8031156,
+        "end_time": 1745581461.8665736,
+        "duration_minutes": 0.08439096609751383,
+        "duration_seconds": 5.06345796585083,
+        "errors": 35,
+        "objects_injected": 4,
+        "partition_files_injected": 255,
+        "files_injected": 259,
+        "errors_file_type_frequencies": {
+            "conf": 1,
+            "apk": 16,
+            "odex": 17
+        },
+        "errors_grouped": {
+            "Unknown Errors": 35
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745587998.7830596,
+        "end_time": 1745587999.028095,
+        "duration_minutes": 0.0040839234987894695,
+        "duration_seconds": 0.24503540992736816,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745594384.1048534,
+        "end_time": 1745594387.7478404,
+        "duration_minutes": 0.060716450214385986,
+        "duration_seconds": 3.642987012863159,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 1,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "capex": 1,
+            "apk": 8
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745600474.952199,
+        "end_time": 1745600475.1189804,
+        "duration_minutes": 0.002779690424601237,
+        "duration_seconds": 0.16678142547607422,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745606847.2324252,
+        "end_time": 1745606853.4553456,
+        "duration_minutes": 0.10371534029642741,
+        "duration_seconds": 6.2229204177856445,
+        "errors": 36,
+        "objects_injected": 2,
+        "partition_files_injected": 85,
+        "files_injected": 87,
+        "errors_file_type_frequencies": {
+            "prop": 15,
+            "odex": 3,
+            "jar": 1,
+            "vdex": 2,
+            "xml": 1,
+            "rsa": 1,
+            "sf": 1,
+            "apk": 4,
+            "pb": 2,
+            "apex": 1,
+            "mf": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 36
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745613450.9149046,
+        "end_time": 1745613452.1257782,
+        "duration_minutes": 0.02018122673034668,
+        "duration_seconds": 1.2108736038208008,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 2,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745619709.487818,
+        "end_time": 1745619709.6874566,
+        "duration_minutes": 0.003327310085296631,
+        "duration_seconds": 0.19963860511779785,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745625902.0926723,
+        "end_time": 1745625907.9406285,
+        "duration_minutes": 0.09746593634287516,
+        "duration_seconds": 5.84795618057251,
+        "errors": 5,
+        "objects_injected": 1,
+        "partition_files_injected": 2,
+        "files_injected": 3,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "apk": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 5
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745632377.2956414,
+        "end_time": 1745632383.664595,
+        "duration_minutes": 0.10614922444025675,
+        "duration_seconds": 6.368953466415405,
+        "errors": 10,
+        "objects_injected": 2,
+        "partition_files_injected": 19,
+        "files_injected": 21,
+        "errors_file_type_frequencies": {
+            "odex": 3,
+            "apk": 3,
+            "so": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745639127.9162586,
+        "end_time": 1745639133.8346229,
+        "duration_minutes": 0.09863940477371216,
+        "duration_seconds": 5.9183642864227295,
+        "errors": 21,
+        "objects_injected": 2,
+        "partition_files_injected": 39,
+        "files_injected": 41,
+        "errors_file_type_frequencies": {
+            "conf": 1,
+            "xml": 1,
+            "so": 1,
+            "rc": 2,
+            "apk": 9,
+            "odex": 6
+        },
+        "errors_grouped": {
+            "Unknown Errors": 21
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745645279.7858531,
+        "end_time": 1745645279.9514897,
+        "duration_minutes": 0.002760608990987142,
+        "duration_seconds": 0.16563653945922852,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745651536.804949,
+        "end_time": 1745651537.7840533,
+        "duration_minutes": 0.01631840467453003,
+        "duration_seconds": 0.9791042804718018,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745658018.2563868,
+        "end_time": 1745658022.5528266,
+        "duration_minutes": 0.07160733143488567,
+        "duration_seconds": 4.29643988609314,
+        "errors": 10,
+        "objects_injected": 1,
+        "partition_files_injected": 28,
+        "files_injected": 29,
+        "errors_file_type_frequencies": {
+            "apk": 5,
+            "odex": 4
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745664148.6708174,
+        "end_time": 1745664150.546638,
+        "duration_minutes": 0.03126367727915446,
+        "duration_seconds": 1.8758206367492676,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 13,
+        "files_injected": 13,
+        "errors_file_type_frequencies": {
+            "prop": 3,
+            "apk": 5,
+            "so": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745670204.050207,
+        "end_time": 1745670209.1152556,
+        "duration_minutes": 0.08441747824350992,
+        "duration_seconds": 5.065048694610596,
+        "errors": 562,
+        "objects_injected": 33,
+        "partition_files_injected": 241,
+        "files_injected": 274,
+        "errors_file_type_frequencies": {
+            "so": 458,
+            "apk": 16,
+            "rc": 6,
+            "xml": 3,
+            "odex": 32,
+            "cil": 4,
+            "txt": 10,
+            "pb": 6,
+            "sig": 1,
+            "fsv_sig": 1,
+            "zip": 1,
+            "sha256": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 562
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745676419.0323951,
+        "end_time": 1745676425.7252684,
+        "duration_minutes": 0.11154788732528687,
+        "duration_seconds": 6.692873239517212,
+        "errors": 213,
+        "objects_injected": 2,
+        "partition_files_injected": 249,
+        "files_injected": 251,
+        "errors_file_type_frequencies": {
+            "so": 84,
+            "bin": 60,
+            "rc": 19,
+            "ko": 17,
+            "xml": 5,
+            "proto": 1,
+            "odex": 4,
+            "apk": 15
+        },
+        "errors_grouped": {
+            "Unknown Errors": 213
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745682530.6737897,
+        "end_time": 1745682538.7605202,
+        "duration_minutes": 0.1347788413365682,
+        "duration_seconds": 8.086730480194092,
+        "errors": 7,
+        "objects_injected": 10,
+        "partition_files_injected": 387,
+        "files_injected": 397,
+        "errors_file_type_frequencies": {
+            "odex": 3,
+            "apk": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 7
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745688670.4778407,
+        "end_time": 1745688672.211216,
+        "duration_minutes": 0.028889588514963784,
+        "duration_seconds": 1.7333753108978271,
+        "errors": 1,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745694770.3761137,
+        "end_time": 1745694772.7427573,
+        "duration_minutes": 0.039444061120351155,
+        "duration_seconds": 2.3666436672210693,
+        "errors": 1,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745700865.485384,
+        "end_time": 1745700867.0062668,
+        "duration_minutes": 0.025348047415415447,
+        "duration_seconds": 1.5208828449249268,
+        "errors": 5,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "apk": 4
+        },
+        "errors_grouped": {
+            "Unknown Errors": 5
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745491238.4234319,
+        "end_time": 1745491392.7195983,
+        "duration_minutes": 2.571602773666382,
+        "duration_seconds": 154.2961664199829,
+        "errors": 3533,
+        "objects_injected": 1017,
+        "partition_files_injected": 12726,
+        "files_injected": 13743,
+        "errors_file_type_frequencies": {
+            "apk": 139,
+            "odex": 395,
+            "mf": 24,
+            "so": 1984,
+            "oat": 28,
+            "art": 31,
+            "cil": 24,
+            "prop": 229,
+            "sf": 24,
+            "rc": 84,
+            "xml": 71,
+            "vdex": 98,
+            "pb": 64,
+            "apex": 19,
+            "img": 9,
+            "rsa": 24,
+            "gz": 8,
+            "jar": 70,
+            "txt": 18,
+            "json": 4,
+            "raw": 2,
+            "capex": 1,
+            "dat": 2,
+            "arsc": 6,
+            "sha256": 2,
+            "zip": 1,
+            "exfat": 2,
+            "sh": 5,
+            "service": 2,
+            "xiaomi": 1,
+            "clearkey": 1,
+            "qti": 3,
+            "widevine": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3533
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745499893.3794663,
+        "end_time": 1745499899.8300846,
+        "duration_minutes": 0.10751030445098878,
+        "duration_seconds": 6.450618267059326,
+        "errors": 369,
+        "objects_injected": 4,
+        "partition_files_injected": 1008,
+        "files_injected": 1012,
+        "errors_file_type_frequencies": {
+            "apk": 107,
+            "prop": 6,
+            "odex": 67,
+            "mf": 5,
+            "xml": 20,
+            "pb": 46,
+            "art": 2,
+            "sf": 5,
+            "so": 16,
+            "gz": 4,
+            "capex": 11,
+            "arsc": 5,
+            "json": 5,
+            "img": 5,
+            "jar": 6,
+            "apex": 5,
+            "rc": 3,
+            "oat": 2,
+            "dat": 1,
+            "txt": 1,
+            "rsa": 5,
+            "qti": 1,
+            "sh": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 369
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745508421.0797462,
+        "end_time": 1745508440.4651735,
+        "duration_minutes": 0.32309045394261676,
+        "duration_seconds": 19.385427236557007,
+        "errors": 1346,
+        "objects_injected": 21,
+        "partition_files_injected": 2067,
+        "files_injected": 2088,
+        "errors_file_type_frequencies": {
+            "apk": 97,
+            "odex": 93,
+            "so": 702,
+            "rc": 116,
+            "prop": 22,
+            "vdex": 12,
+            "jar": 6,
+            "ko": 32,
+            "bin": 140,
+            "xml": 88,
+            "txt": 2,
+            "cil": 9,
+            "policy": 2,
+            "st": 1,
+            "sh": 2,
+            "multihal": 1,
+            "service": 1,
+            "sha256": 4,
+            "raw": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1346
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745516641.535132,
+        "end_time": 1745516668.5256212,
+        "duration_minutes": 0.4498414874076843,
+        "duration_seconds": 26.99048924446106,
+        "errors": 256,
+        "objects_injected": 36,
+        "partition_files_injected": 422,
+        "files_injected": 458,
+        "errors_file_type_frequencies": {
+            "oat": 26,
+            "apk": 26,
+            "art": 26,
+            "so": 102,
+            "odex": 39,
+            "vdex": 2,
+            "rc": 17,
+            "jar": 1,
+            "cil": 4,
+            "prop": 3,
+            "apex": 5,
+            "xml": 3,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 256
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745524816.6914718,
+        "end_time": 1745524817.7601278,
+        "duration_minutes": 0.017810932795206704,
+        "duration_seconds": 1.0686559677124023,
+        "errors": 4,
+        "objects_injected": 1,
+        "partition_files_injected": 11,
+        "files_injected": 12,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "rc": 1,
+            "vdex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745533189.2452576,
+        "end_time": 1745533257.8822978,
+        "duration_minutes": 1.1439506689707437,
+        "duration_seconds": 68.63704013824463,
+        "errors": 962,
+        "objects_injected": 14,
+        "partition_files_injected": 6660,
+        "files_injected": 6674,
+        "errors_file_type_frequencies": {
+            "xml": 44,
+            "odex": 96,
+            "apk": 111,
+            "rc": 96,
+            "oat": 8,
+            "so": 503,
+            "art": 8,
+            "sha256": 3,
+            "prop": 2,
+            "raw": 1,
+            "jar": 3,
+            "bin": 52,
+            "clearkey": 1,
+            "service_64": 1,
+            "0": 1,
+            "widevine": 1,
+            "sh": 9,
+            "service": 2,
+            "qti": 1,
+            "face": 1,
+            "multihal": 1,
+            "sec": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 962
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745541547.3907852,
+        "end_time": 1745541548.1555066,
+        "duration_minutes": 0.012745356559753418,
+        "duration_seconds": 0.7647213935852051,
+        "errors": 17,
+        "objects_injected": 1,
+        "partition_files_injected": 17,
+        "files_injected": 18,
+        "errors_file_type_frequencies": {
+            "apk": 10,
+            "odex": 2,
+            "apex": 1,
+            "capex": 3,
+            "xml": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 17
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745549803.9018824,
+        "end_time": 1745549803.941079,
+        "duration_minutes": 0.0006532748540242513,
+        "duration_seconds": 0.03919649124145508,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745558305.5653834,
+        "end_time": 1745558335.4667206,
+        "duration_minutes": 0.4983556191126505,
+        "duration_seconds": 29.901337146759033,
+        "errors": 1984,
+        "objects_injected": 37,
+        "partition_files_injected": 3182,
+        "files_injected": 3219,
+        "errors_file_type_frequencies": {
+            "so": 1065,
+            "o": 8,
+            "pb": 103,
+            "gz": 22,
+            "mf": 22,
+            "policy": 6,
+            "sf": 22,
+            "xml": 42,
+            "img": 22,
+            "rsa": 22,
+            "apk": 122,
+            "json": 8,
+            "jar": 45,
+            "32rc": 2,
+            "dat": 2,
+            "txt": 25,
+            "rc": 19,
+            "vdex": 8,
+            "odex": 115,
+            "prof": 1,
+            "prop": 226,
+            "apex": 2,
+            "arsc": 2,
+            "cil": 6
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1984
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745566631.970926,
+        "end_time": 1745566632.064315,
+        "duration_minutes": 0.0015564839045206706,
+        "duration_seconds": 0.09338903427124023,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745574955.7097812,
+        "end_time": 1745575050.8659537,
+        "duration_minutes": 1.5859362085660298,
+        "duration_seconds": 95.15617251396179,
+        "errors": 970,
+        "objects_injected": 24,
+        "partition_files_injected": 8322,
+        "files_injected": 8346,
+        "errors_file_type_frequencies": {
+            "raw": 1,
+            "art": 22,
+            "oat": 10,
+            "vdex": 10,
+            "so": 195,
+            "apk": 134,
+            "img": 4,
+            "0": 3,
+            "txt": 6,
+            "pb": 12,
+            "xml": 56,
+            "arsc": 3,
+            "rc": 76,
+            "jar": 2,
+            "sf": 3,
+            "mf": 3,
+            "gz": 2,
+            "rsa": 3,
+            "odex": 186,
+            "binarypb": 186,
+            "gs101": 2,
+            "trusty": 2,
+            "vendor": 1,
+            "generic": 1,
+            "bin": 8,
+            "pixel": 4,
+            "cs40l25": 1,
+            "bcmbtlinux": 1,
+            "citadel": 3,
+            "goodix": 1,
+            "default": 1,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 970
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745583581.01781,
+        "end_time": 1745583582.7350101,
+        "duration_minutes": 0.02862000068028768,
+        "duration_seconds": 1.7172000408172607,
+        "errors": 27,
+        "objects_injected": 2,
+        "partition_files_injected": 15,
+        "files_injected": 17,
+        "errors_file_type_frequencies": {
+            "apk": 14,
+            "xml": 1,
+            "odex": 11,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 27
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745592070.948454,
+        "end_time": 1745592080.945857,
+        "duration_minutes": 0.16662338574727376,
+        "duration_seconds": 9.997403144836426,
+        "errors": 209,
+        "objects_injected": 1,
+        "partition_files_injected": 1011,
+        "files_injected": 1012,
+        "errors_file_type_frequencies": {
+            "apk": 2,
+            "odex": 2,
+            "binarypb": 191,
+            "so": 10,
+            "bin": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 209
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745600267.702635,
+        "end_time": 1745600268.3760273,
+        "duration_minutes": 0.011223204930623372,
+        "duration_seconds": 0.6733922958374023,
+        "errors": 25,
+        "objects_injected": 0,
+        "partition_files_injected": 52,
+        "files_injected": 52,
+        "errors_file_type_frequencies": {
+            "apk": 18,
+            "prop": 3,
+            "so": 4
+        },
+        "errors_grouped": {
+            "Unknown Errors": 25
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745608505.7148306,
+        "end_time": 1745608510.9382298,
+        "duration_minutes": 0.08705665270487467,
+        "duration_seconds": 5.2233991622924805,
+        "errors": 167,
+        "objects_injected": 1,
+        "partition_files_injected": 232,
+        "files_injected": 233,
+        "errors_file_type_frequencies": {
+            "sha256": 1,
+            "cil": 8,
+            "apk": 23,
+            "rc": 13,
+            "prop": 37,
+            "so": 61,
+            "odex": 12,
+            "xml": 3,
+            "jar": 1,
+            "vdex": 2,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 167
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745616780.3403668,
+        "end_time": 1745616781.5648246,
+        "duration_minutes": 0.020407629013061524,
+        "duration_seconds": 1.2244577407836914,
+        "errors": 76,
+        "objects_injected": 1,
+        "partition_files_injected": 97,
+        "files_injected": 98,
+        "errors_file_type_frequencies": {
+            "apk": 24,
+            "prop": 10,
+            "odex": 18,
+            "so": 7,
+            "jar": 2,
+            "vdex": 4,
+            "xml": 3,
+            "art": 2,
+            "oat": 2,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 76
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745624977.490752,
+        "end_time": 1745624978.0454714,
+        "duration_minutes": 0.00924532413482666,
+        "duration_seconds": 0.5547194480895996,
+        "errors": 7,
+        "objects_injected": 0,
+        "partition_files_injected": 50,
+        "files_injected": 50,
+        "errors_file_type_frequencies": {
+            "odex": 4,
+            "apk": 2,
+            "so": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 7
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745633309.077216,
+        "end_time": 1745633316.4176,
+        "duration_minutes": 0.12233973344167073,
+        "duration_seconds": 7.340384006500244,
+        "errors": 194,
+        "objects_injected": 1,
+        "partition_files_injected": 776,
+        "files_injected": 777,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "apk": 2,
+            "binarypb": 187,
+            "bin": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 194
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745641607.1873605,
+        "end_time": 1745641607.3829098,
+        "duration_minutes": 0.003259154160817464,
+        "duration_seconds": 0.19554924964904785,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745649661.7193143,
+        "end_time": 1745649661.7376187,
+        "duration_minutes": 0.0003050724665323893,
+        "duration_seconds": 0.01830434799194336,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745657919.7168434,
+        "end_time": 1745657919.873291,
+        "duration_minutes": 0.0026074608167012533,
+        "duration_seconds": 0.1564476490020752,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745666230.4302921,
+        "end_time": 1745666230.6789203,
+        "duration_minutes": 0.004143802324930826,
+        "duration_seconds": 0.2486281394958496,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745674563.2415867,
+        "end_time": 1745674568.1507757,
+        "duration_minutes": 0.08181981643040975,
+        "duration_seconds": 4.909188985824585,
+        "errors": 201,
+        "objects_injected": 3,
+        "partition_files_injected": 256,
+        "files_injected": 259,
+        "errors_file_type_frequencies": {
+            "apk": 13,
+            "odex": 2,
+            "so": 83,
+            "bin": 60,
+            "ko": 17,
+            "xml": 5,
+            "rc": 19,
+            "proto": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 201
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745682787.3790016,
+        "end_time": 1745682787.4498544,
+        "duration_minutes": 0.001180879275004069,
+        "duration_seconds": 0.07085275650024414,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745691070.336758,
+        "end_time": 1745691070.3998058,
+        "duration_minutes": 0.0010507980982462565,
+        "duration_seconds": 0.06304788589477539,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745699491.3262477,
+        "end_time": 1745699491.9794285,
+        "duration_minutes": 0.01088634729385376,
+        "duration_seconds": 0.6531808376312256,
+        "errors": 7,
+        "objects_injected": 1,
+        "partition_files_injected": 6,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "odex": 1,
+            "apk": 4,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 7
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745707687.9271114,
+        "end_time": 1745707688.0050619,
+        "duration_minutes": 0.0012991746266682942,
+        "duration_seconds": 0.07795047760009766,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745716141.7875924,
+        "end_time": 1745716142.9364207,
+        "duration_minutes": 0.01914713780085246,
+        "duration_seconds": 1.1488282680511475,
+        "errors": 131,
+        "objects_injected": 3,
+        "partition_files_injected": 72,
+        "files_injected": 75,
+        "errors_file_type_frequencies": {
+            "bin": 62,
+            "so": 26,
+            "xml": 10,
+            "prop": 10,
+            "rc": 6,
+            "ko": 1,
+            "odex": 7,
+            "apk": 5
+        },
+        "errors_grouped": {
+            "Unknown Errors": 131
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745724259.3801122,
+        "end_time": 1745724259.464839,
+        "duration_minutes": 0.0014121135075887044,
+        "duration_seconds": 0.08472681045532227,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745732398.0817838,
+        "end_time": 1745732402.994337,
+        "duration_minutes": 0.08187588850657145,
+        "duration_seconds": 4.912553310394287,
+        "errors": 4,
+        "objects_injected": 11,
+        "partition_files_injected": 403,
+        "files_injected": 414,
+        "errors_file_type_frequencies": {
+            "png": 1,
+            "odex": 1,
+            "apk": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745740855.692876,
+        "end_time": 1745740857.326689,
+        "duration_minutes": 0.027230215072631837,
+        "duration_seconds": 1.6338129043579102,
+        "errors": 1,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745749096.761173,
+        "end_time": 1745749096.7919207,
+        "duration_minutes": 0.0005124608675638834,
+        "duration_seconds": 0.030747652053833008,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745757277.3079646,
+        "end_time": 1745757278.943506,
+        "duration_minutes": 0.027259023984273274,
+        "duration_seconds": 1.6355414390563965,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 2,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745765796.0010731,
+        "end_time": 1745765796.3513308,
+        "duration_minutes": 0.005837627251942952,
+        "duration_seconds": 0.35025763511657715,
+        "errors": 1,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745774179.2605195,
+        "end_time": 1745774179.3000903,
+        "duration_minutes": 0.0006595134735107421,
+        "duration_seconds": 0.03957080841064453,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745489219.226207,
+        "end_time": 1745489259.5147505,
+        "duration_minutes": 0.6714757243792217,
+        "duration_seconds": 40.288543462753296,
+        "errors": 986,
+        "objects_injected": 886,
+        "partition_files_injected": 2043,
+        "files_injected": 2929,
+        "errors_file_type_frequencies": {
+            "odex": 150,
+            "prop": 12,
+            "apk": 162,
+            "art": 33,
+            "so": 348,
+            "oat": 32,
+            "apex": 7,
+            "rc": 83,
+            "capex": 12,
+            "vdex": 18,
+            "jar": 9,
+            "xml": 21,
+            "exfat": 2,
+            "cil": 12,
+            "sha256": 1,
+            "zip": 1,
+            "txt": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 986
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745495334.6494224,
+        "end_time": 1745495356.982883,
+        "duration_minutes": 0.3722243428230286,
+        "duration_seconds": 22.333460569381714,
+        "errors": 207,
+        "objects_injected": 37,
+        "partition_files_injected": 197,
+        "files_injected": 234,
+        "errors_file_type_frequencies": {
+            "oat": 12,
+            "so": 98,
+            "odex": 23,
+            "apk": 19,
+            "rc": 6,
+            "capex": 1,
+            "vdex": 4,
+            "cil": 4,
+            "art": 12,
+            "xml": 4,
+            "apex": 5,
+            "jar": 2,
+            "prop": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 207
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745501438.8991709,
+        "end_time": 1745501439.0707464,
+        "duration_minutes": 0.0028595924377441406,
+        "duration_seconds": 0.17157554626464844,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745507257.0763805,
+        "end_time": 1745507272.0884836,
+        "duration_minutes": 0.25020171801249186,
+        "duration_seconds": 15.012103080749512,
+        "errors": 237,
+        "objects_injected": 12,
+        "partition_files_injected": 338,
+        "files_injected": 350,
+        "errors_file_type_frequencies": {
+            "so": 62,
+            "prop": 2,
+            "rc": 16,
+            "apk": 80,
+            "odex": 38,
+            "cil": 8,
+            "sha256": 1,
+            "apex": 18,
+            "xml": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 237
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745513410.0498483,
+        "end_time": 1745513413.2840438,
+        "duration_minutes": 0.053903257846832274,
+        "duration_seconds": 3.2341954708099365,
+        "errors": 17,
+        "objects_injected": 0,
+        "partition_files_injected": 10,
+        "files_injected": 10,
+        "errors_file_type_frequencies": {
+            "xml": 1,
+            "apk": 10,
+            "apex": 1,
+            "capex": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 17
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745519594.3750992,
+        "end_time": 1745519596.4934504,
+        "duration_minutes": 0.035305853684743246,
+        "duration_seconds": 2.1183512210845947,
+        "errors": 5,
+        "objects_injected": 1,
+        "partition_files_injected": 11,
+        "files_injected": 12,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "rc": 1,
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 5
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745525750.2742672,
+        "end_time": 1745525817.5654993,
+        "duration_minutes": 1.1215205351511637,
+        "duration_seconds": 67.29123210906982,
+        "errors": 2542,
+        "objects_injected": 32,
+        "partition_files_injected": 8861,
+        "files_injected": 8893,
+        "errors_file_type_frequencies": {
+            "so": 858,
+            "binarypb": 536,
+            "xml": 131,
+            "service": 1,
+            "rc": 90,
+            "vendor": 1,
+            "cil": 10,
+            "arsc": 7,
+            "bin": 6,
+            "citadel": 3,
+            "mf": 26,
+            "gs101": 2,
+            "pb": 110,
+            "txt": 9,
+            "trusty": 2,
+            "cs40l25": 1,
+            "sha256": 5,
+            "multihal": 1,
+            "odex": 202,
+            "pixel": 4,
+            "st": 1,
+            "apk": 150,
+            "widevine": 1,
+            "bcmbtlinux": 1,
+            "generic": 1,
+            "prop": 5,
+            "img": 27,
+            "goodix": 1,
+            "sf": 26,
+            "gz": 24,
+            "default": 1,
+            "apex": 1,
+            "rsa": 26,
+            "raw": 3,
+            "clearkey": 1,
+            "art": 22,
+            "0": 3,
+            "jar": 26,
+            "o": 2,
+            "oat": 10,
+            "policy": 6,
+            "vdex": 10,
+            "json": 8,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2542
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745531845.883775,
+        "end_time": 1745531846.0855124,
+        "duration_minutes": 0.0033622900644938152,
+        "duration_seconds": 0.2017374038696289,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745538016.4348984,
+        "end_time": 1745538019.798329,
+        "duration_minutes": 0.05605717897415161,
+        "duration_seconds": 3.3634307384490967,
+        "errors": 266,
+        "objects_injected": 0,
+        "partition_files_injected": 134,
+        "files_injected": 134,
+        "errors_file_type_frequencies": {
+            "prop": 223,
+            "apk": 42,
+            "odex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 266
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745544380.1240127,
+        "end_time": 1745544395.0578854,
+        "duration_minutes": 0.24889787832895915,
+        "duration_seconds": 14.933872699737549,
+        "errors": 54,
+        "objects_injected": 4,
+        "partition_files_injected": 1206,
+        "files_injected": 1210,
+        "errors_file_type_frequencies": {
+            "binarypb": 24,
+            "bin": 7,
+            "txt": 6,
+            "so": 2,
+            "rc": 1,
+            "odex": 4,
+            "apk": 3,
+            "cil": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 54
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745550591.2259557,
+        "end_time": 1745550629.215627,
+        "duration_minutes": 0.633161187171936,
+        "duration_seconds": 37.98967123031616,
+        "errors": 4347,
+        "objects_injected": 44,
+        "partition_files_injected": 5728,
+        "files_injected": 5772,
+        "errors_file_type_frequencies": {
+            "so": 2776,
+            "odex": 331,
+            "xml": 97,
+            "rc": 127,
+            "bin": 64,
+            "policy": 2,
+            "ko": 32,
+            "sh": 8,
+            "qti": 3,
+            "prop": 237,
+            "apk": 185,
+            "multihal": 1,
+            "clearkey": 1,
+            "widevine": 1,
+            "service": 1,
+            "xiaomi": 1,
+            "cil": 11,
+            "txt": 35,
+            "jar": 88,
+            "vdex": 96,
+            "gz": 7,
+            "sf": 6,
+            "pb": 32,
+            "mf": 6,
+            "img": 7,
+            "apex": 3,
+            "rsa": 6,
+            "art": 14,
+            "arsc": 3,
+            "oat": 12,
+            "o": 6,
+            "dat": 2,
+            "32rc": 2,
+            "prof": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4347
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745556886.7555559,
+        "end_time": 1745556956.3521802,
+        "duration_minutes": 1.1599437395731609,
+        "duration_seconds": 69.59662437438965,
+        "errors": 371,
+        "objects_injected": 97,
+        "partition_files_injected": 10032,
+        "files_injected": 10129,
+        "errors_file_type_frequencies": {
+            "png": 1,
+            "qti": 1,
+            "service": 1,
+            "apk": 26,
+            "prop": 2,
+            "odex": 97,
+            "so": 51,
+            "jar": 3,
+            "cil": 2,
+            "vdex": 2,
+            "rc": 2,
+            "xml": 19,
+            "sf": 17,
+            "pb": 37,
+            "rsa": 17,
+            "mf": 17,
+            "arsc": 1,
+            "json": 4,
+            "gz": 1,
+            "img": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 371
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745563477.3364532,
+        "end_time": 1745563477.4851692,
+        "duration_minutes": 0.0024785995483398438,
+        "duration_seconds": 0.14871597290039062,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745569794.5026546,
+        "end_time": 1745569800.0226862,
+        "duration_minutes": 0.09200052817662557,
+        "duration_seconds": 5.520031690597534,
+        "errors": 1,
+        "objects_injected": 2,
+        "partition_files_injected": 121,
+        "files_injected": 123,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745575821.048752,
+        "end_time": 1745575824.572286,
+        "duration_minutes": 0.058725563685099284,
+        "duration_seconds": 3.523533821105957,
+        "errors": 69,
+        "objects_injected": 1,
+        "partition_files_injected": 143,
+        "files_injected": 144,
+        "errors_file_type_frequencies": {
+            "so": 12,
+            "odex": 10,
+            "prop": 13,
+            "apk": 18,
+            "rc": 11
+        },
+        "errors_grouped": {
+            "Unknown Errors": 69
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745582120.608793,
+        "end_time": 1745582123.4855165,
+        "duration_minutes": 0.04794539213180542,
+        "duration_seconds": 2.876723527908325,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 62,
+        "files_injected": 62,
+        "errors_file_type_frequencies": {
+            "apk": 8,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745588866.246632,
+        "end_time": 1745588877.8586123,
+        "duration_minutes": 0.1935330033302307,
+        "duration_seconds": 11.611980199813843,
+        "errors": 240,
+        "objects_injected": 7,
+        "partition_files_injected": 1078,
+        "files_injected": 1085,
+        "errors_file_type_frequencies": {
+            "sh": 1,
+            "apk": 10,
+            "odex": 63,
+            "pb": 46,
+            "xml": 19,
+            "rsa": 5,
+            "json": 5,
+            "img": 5,
+            "arsc": 5,
+            "gz": 4,
+            "sf": 5,
+            "so": 14,
+            "vdex": 2,
+            "txt": 1,
+            "jar": 7,
+            "mf": 5,
+            "rc": 3,
+            "dat": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 240
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745595154.6848998,
+        "end_time": 1745595154.8353572,
+        "duration_minutes": 0.002507623036702474,
+        "duration_seconds": 0.15045738220214844,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745601236.8431761,
+        "end_time": 1745601239.5419006,
+        "duration_minutes": 0.04497874180475871,
+        "duration_seconds": 2.6987245082855225,
+        "errors": 60,
+        "objects_injected": 1,
+        "partition_files_injected": 64,
+        "files_injected": 65,
+        "errors_file_type_frequencies": {
+            "apk": 21,
+            "odex": 16,
+            "vdex": 2,
+            "prop": 7,
+            "oat": 2,
+            "art": 2,
+            "rc": 1,
+            "xml": 2,
+            "jar": 1,
+            "so": 3,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 60
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745607603.2097416,
+        "end_time": 1745607603.398732,
+        "duration_minutes": 0.0031498392422993978,
+        "duration_seconds": 0.18899035453796387,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745614186.6370146,
+        "end_time": 1745614186.8153257,
+        "duration_minutes": 0.0029718518257141114,
+        "duration_seconds": 0.17831110954284668,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745620540.2212749,
+        "end_time": 1745620545.102632,
+        "duration_minutes": 0.08135595321655273,
+        "duration_seconds": 4.881357192993164,
+        "errors": 275,
+        "objects_injected": 2,
+        "partition_files_injected": 142,
+        "files_injected": 144,
+        "errors_file_type_frequencies": {
+            "bin": 138,
+            "so": 87,
+            "prop": 8,
+            "ko": 1,
+            "xml": 11,
+            "rc": 7,
+            "odex": 11,
+            "apk": 11
+        },
+        "errors_grouped": {
+            "Unknown Errors": 275
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745626709.3870494,
+        "end_time": 1745626709.5735736,
+        "duration_minutes": 0.0031087358792622885,
+        "duration_seconds": 0.1865241527557373,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745633629.1428308,
+        "end_time": 1745633629.3335888,
+        "duration_minutes": 0.003179299831390381,
+        "duration_seconds": 0.19075798988342285,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745640090.2891397,
+        "end_time": 1745640090.4671628,
+        "duration_minutes": 0.0029670516649882,
+        "duration_seconds": 0.178023099899292,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745646281.4977953,
+        "end_time": 1745646287.5997398,
+        "duration_minutes": 0.10169907410939534,
+        "duration_seconds": 6.101944446563721,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 5,
+        "files_injected": 5,
+        "errors_file_type_frequencies": {
+            "odex": 3,
+            "apk": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745652600.669589,
+        "end_time": 1745652608.954566,
+        "duration_minutes": 0.13808294932047527,
+        "duration_seconds": 8.284976959228516,
+        "errors": 291,
+        "objects_injected": 2,
+        "partition_files_injected": 675,
+        "files_injected": 677,
+        "errors_file_type_frequencies": {
+            "bin": 58,
+            "so": 81,
+            "xml": 8,
+            "ko": 11,
+            "rc": 28,
+            "apk": 34,
+            "vdex": 7,
+            "odex": 40,
+            "cil": 2,
+            "jar": 2,
+            "oat": 2,
+            "art": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 291
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745659216.9382775,
+        "end_time": 1745659217.1304293,
+        "duration_minutes": 0.003202529748280843,
+        "duration_seconds": 0.19215178489685059,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745665399.7732787,
+        "end_time": 1745665401.7274122,
+        "duration_minutes": 0.032568891843159996,
+        "duration_seconds": 1.9541335105895996,
+        "errors": 3,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "rc": 1,
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745671372.0269942,
+        "end_time": 1745671374.4176714,
+        "duration_minutes": 0.039844620227813723,
+        "duration_seconds": 2.3906772136688232,
+        "errors": 20,
+        "objects_injected": 0,
+        "partition_files_injected": 43,
+        "files_injected": 43,
+        "errors_file_type_frequencies": {
+            "rc": 1,
+            "apk": 4,
+            "prop": 14,
+            "jpg": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 20
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745677309.289616,
+        "end_time": 1745677314.651908,
+        "duration_minutes": 0.08937153021494547,
+        "duration_seconds": 5.3622918128967285,
+        "errors": 10,
+        "objects_injected": 1,
+        "partition_files_injected": 7,
+        "files_injected": 8,
+        "errors_file_type_frequencies": {
+            "so": 4,
+            "odex": 2,
+            "apk": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745683413.496827,
+        "end_time": 1745683418.67863,
+        "duration_minutes": 0.08636338710784912,
+        "duration_seconds": 5.181803226470947,
+        "errors": 2,
+        "objects_injected": 1,
+        "partition_files_injected": 1,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745689330.0508115,
+        "end_time": 1745689330.286822,
+        "duration_minutes": 0.003933509190877278,
+        "duration_seconds": 0.23601055145263672,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745695278.3940892,
+        "end_time": 1745695279.364913,
+        "duration_minutes": 0.01618039608001709,
+        "duration_seconds": 0.9708237648010254,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745701247.8640392,
+        "end_time": 1745701249.264074,
+        "duration_minutes": 0.023333915074666343,
+        "duration_seconds": 1.4000349044799805,
+        "errors": 1,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745497449.4621851,
+        "end_time": 1745497513.5301483,
+        "duration_minutes": 1.0677993853886922,
+        "duration_seconds": 64.06796312332153,
+        "errors": 4811,
+        "objects_injected": 925,
+        "partition_files_injected": 9660,
+        "files_injected": 10585,
+        "errors_file_type_frequencies": {
+            "xml": 167,
+            "so": 3005,
+            "rc": 234,
+            "c": 1,
+            "qti": 2,
+            "bin": 54,
+            "apk": 206,
+            "sh": 14,
+            "odex": 372,
+            "service": 3,
+            "policy": 2,
+            "face": 1,
+            "service_64": 1,
+            "0": 1,
+            "multihal": 1,
+            "sec": 1,
+            "raw": 4,
+            "prop": 6,
+            "widevine": 1,
+            "txt": 20,
+            "clearkey": 1,
+            "cil": 33,
+            "sha256": 6,
+            "vdex": 91,
+            "jar": 70,
+            "pb": 64,
+            "sf": 24,
+            "img": 9,
+            "apex": 19,
+            "arsc": 6,
+            "art": 37,
+            "rsa": 24,
+            "mf": 24,
+            "gz": 8,
+            "oat": 34,
+            "zip": 1,
+            "json": 4,
+            "exfat": 2,
+            "capex": 1,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4811
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745503822.0900488,
+        "end_time": 1745503897.2877853,
+        "duration_minutes": 1.253295608361562,
+        "duration_seconds": 75.19773650169373,
+        "errors": 1536,
+        "objects_injected": 52,
+        "partition_files_injected": 8316,
+        "files_injected": 8368,
+        "errors_file_type_frequencies": {
+            "binarypb": 186,
+            "xml": 79,
+            "rc": 83,
+            "so": 409,
+            "pixel": 4,
+            "bcmbtlinux": 1,
+            "pb": 90,
+            "trusty": 2,
+            "cs40l25": 1,
+            "sha256": 3,
+            "citadel": 3,
+            "bin": 8,
+            "odex": 191,
+            "vendor": 1,
+            "generic": 1,
+            "img": 21,
+            "rsa": 20,
+            "gs101": 2,
+            "goodix": 1,
+            "arsc": 3,
+            "mf": 20,
+            "gz": 18,
+            "default": 1,
+            "apk": 135,
+            "apex": 2,
+            "st": 1,
+            "service": 1,
+            "txt": 8,
+            "sf": 20,
+            "prop": 1,
+            "art": 22,
+            "cil": 4,
+            "json": 8,
+            "policy": 6,
+            "jar": 25,
+            "oat": 10,
+            "vdex": 10,
+            "0": 3,
+            "o": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1536
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745510059.6748416,
+        "end_time": 1745510155.3050506,
+        "duration_minutes": 1.593836816151937,
+        "duration_seconds": 95.63020896911621,
+        "errors": 706,
+        "objects_injected": 95,
+        "partition_files_injected": 11206,
+        "files_injected": 11301,
+        "errors_file_type_frequencies": {
+            "txt": 2,
+            "clearkey": 1,
+            "odex": 194,
+            "apk": 151,
+            "sh": 2,
+            "qti": 2,
+            "service": 1,
+            "prop": 7,
+            "xiaomi": 1,
+            "widevine": 1,
+            "so": 83,
+            "rc": 18,
+            "vdex": 20,
+            "jar": 20,
+            "mf": 5,
+            "pb": 46,
+            "xml": 24,
+            "img": 5,
+            "sf": 5,
+            "json": 5,
+            "dat": 1,
+            "capex": 11,
+            "gz": 4,
+            "apex": 5,
+            "rsa": 5,
+            "arsc": 5,
+            "art": 4,
+            "oat": 4
+        },
+        "errors_grouped": {
+            "Unknown Errors": 706
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745516539.624582,
+        "end_time": 1745516547.1307986,
+        "duration_minutes": 0.12510360876719157,
+        "duration_seconds": 7.506216526031494,
+        "errors": 336,
+        "objects_injected": 4,
+        "partition_files_injected": 537,
+        "files_injected": 541,
+        "errors_file_type_frequencies": {
+            "odex": 51,
+            "prop": 225,
+            "apk": 49,
+            "so": 4,
+            "vdex": 2,
+            "jar": 1,
+            "xml": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 336
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745522717.6684,
+        "end_time": 1745522720.9836812,
+        "duration_minutes": 0.055254685878753665,
+        "duration_seconds": 3.3152811527252197,
+        "errors": 259,
+        "objects_injected": 13,
+        "partition_files_injected": 408,
+        "files_injected": 421,
+        "errors_file_type_frequencies": {
+            "vdex": 3,
+            "so": 101,
+            "odex": 39,
+            "art": 26,
+            "rc": 17,
+            "apk": 21,
+            "oat": 26,
+            "apex": 4,
+            "cil": 2,
+            "jar": 1,
+            "prop": 3,
+            "xml": 3,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 259
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745529074.4928493,
+        "end_time": 1745529080.430561,
+        "duration_minutes": 0.09896186192830404,
+        "duration_seconds": 5.937711715698242,
+        "errors": 32,
+        "objects_injected": 2,
+        "partition_files_injected": 51,
+        "files_injected": 53,
+        "errors_file_type_frequencies": {
+            "sh": 1,
+            "apk": 17,
+            "odex": 14
+        },
+        "errors_grouped": {
+            "Unknown Errors": 32
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745535596.685978,
+        "end_time": 1745535621.0221906,
+        "duration_minutes": 0.40560354391733805,
+        "duration_seconds": 24.336212635040283,
+        "errors": 1903,
+        "objects_injected": 38,
+        "partition_files_injected": 3873,
+        "files_injected": 3911,
+        "errors_file_type_frequencies": {
+            "bin": 138,
+            "so": 958,
+            "rc": 56,
+            "elf": 1,
+            "xml": 51,
+            "ko": 32,
+            "prop": 234,
+            "apk": 129,
+            "qti": 1,
+            "sh": 1,
+            "multihal": 1,
+            "odex": 110,
+            "cil": 4,
+            "txt": 23,
+            "mf": 5,
+            "vdex": 6,
+            "apex": 2,
+            "arsc": 2,
+            "pb": 25,
+            "rsa": 5,
+            "jar": 17,
+            "gz": 6,
+            "img": 5,
+            "sf": 5,
+            "32rc": 2,
+            "prof": 1,
+            "o": 6,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1903
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745542064.0166693,
+        "end_time": 1745542065.6335897,
+        "duration_minutes": 0.02694867451985677,
+        "duration_seconds": 1.6169204711914062,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 3,
+        "files_injected": 3,
+        "errors_file_type_frequencies": {
+            "so": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745548538.2220938,
+        "end_time": 1745548551.788995,
+        "duration_minutes": 0.22611502011617024,
+        "duration_seconds": 13.566901206970215,
+        "errors": 531,
+        "objects_injected": 5,
+        "partition_files_injected": 1841,
+        "files_injected": 1846,
+        "errors_file_type_frequencies": {
+            "prof": 1,
+            "odex": 86,
+            "so": 136,
+            "sha256": 1,
+            "oat": 12,
+            "rc": 37,
+            "apk": 194,
+            "cil": 12,
+            "art": 12,
+            "vdex": 2,
+            "prop": 3,
+            "xml": 13,
+            "apex": 3,
+            "jar": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 531
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745554970.1079566,
+        "end_time": 1745554975.8898537,
+        "duration_minutes": 0.09636495113372803,
+        "duration_seconds": 5.781897068023682,
+        "errors": 174,
+        "objects_injected": 0,
+        "partition_files_injected": 527,
+        "files_injected": 527,
+        "errors_file_type_frequencies": {
+            "odex": 24,
+            "so": 72,
+            "art": 1,
+            "apk": 52,
+            "sh": 1,
+            "cil": 4,
+            "rc": 10,
+            "apex": 6,
+            "xml": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 174
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745561578.5461848,
+        "end_time": 1745561581.4304712,
+        "duration_minutes": 0.04807144006093343,
+        "duration_seconds": 2.884286403656006,
+        "errors": 38,
+        "objects_injected": 0,
+        "partition_files_injected": 134,
+        "files_injected": 134,
+        "errors_file_type_frequencies": {
+            "so": 8,
+            "apk": 20,
+            "oat": 2,
+            "rc": 4,
+            "odex": 2,
+            "art": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 38
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745568177.8000352,
+        "end_time": 1745568182.038416,
+        "duration_minutes": 0.07063967784245809,
+        "duration_seconds": 4.238380670547485,
+        "errors": 4,
+        "objects_injected": 0,
+        "partition_files_injected": 7,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "apk": 3,
+            "prof": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745574608.1648085,
+        "end_time": 1745574611.9587548,
+        "duration_minutes": 0.06323243776957194,
+        "duration_seconds": 3.7939462661743164,
+        "errors": 3,
+        "objects_injected": 0,
+        "partition_files_injected": 4,
+        "files_injected": 4,
+        "errors_file_type_frequencies": {
+            "apk": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745580983.166777,
+        "end_time": 1745580983.181718,
+        "duration_minutes": 0.000249020258585612,
+        "duration_seconds": 0.014941215515136719,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745587814.4210355,
+        "end_time": 1745587817.3987842,
+        "duration_minutes": 0.049629143873850506,
+        "duration_seconds": 2.9777486324310303,
+        "errors": 31,
+        "objects_injected": 0,
+        "partition_files_injected": 83,
+        "files_injected": 83,
+        "errors_file_type_frequencies": {
+            "apk": 31
+        },
+        "errors_grouped": {
+            "Unknown Errors": 31
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745594254.471408,
+        "end_time": 1745594254.4829817,
+        "duration_minutes": 0.00019289652506510418,
+        "duration_seconds": 0.01157379150390625,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745600630.1506205,
+        "end_time": 1745600632.799517,
+        "duration_minutes": 0.04414827426274617,
+        "duration_seconds": 2.6488964557647705,
+        "errors": 12,
+        "objects_injected": 0,
+        "partition_files_injected": 25,
+        "files_injected": 25,
+        "errors_file_type_frequencies": {
+            "rc": 3,
+            "apk": 9
+        },
+        "errors_grouped": {
+            "Unknown Errors": 12
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745607271.3831177,
+        "end_time": 1745607275.3765895,
+        "duration_minutes": 0.06655786434809367,
+        "duration_seconds": 3.99347186088562,
+        "errors": 45,
+        "objects_injected": 0,
+        "partition_files_injected": 141,
+        "files_injected": 141,
+        "errors_file_type_frequencies": {
+            "apk": 9,
+            "so": 27,
+            "odex": 8
+        },
+        "errors_grouped": {
+            "Unknown Errors": 45
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745614128.0952716,
+        "end_time": 1745614131.2641273,
+        "duration_minutes": 0.05281426111857097,
+        "duration_seconds": 3.168855667114258,
+        "errors": 227,
+        "objects_injected": 0,
+        "partition_files_injected": 158,
+        "files_injected": 158,
+        "errors_file_type_frequencies": {
+            "so": 113,
+            "jar": 47,
+            "odex": 28,
+            "vdex": 25,
+            "xml": 5,
+            "rc": 1,
+            "apk": 6,
+            "fstab": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 227
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745620674.0291464,
+        "end_time": 1745620677.0407712,
+        "duration_minutes": 0.0501937468846639,
+        "duration_seconds": 3.011624813079834,
+        "errors": 24,
+        "objects_injected": 0,
+        "partition_files_injected": 106,
+        "files_injected": 106,
+        "errors_file_type_frequencies": {
+            "so": 1,
+            "odex": 15,
+            "apk": 5,
+            "vdex": 2,
+            "jar": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 24
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745626849.5650368,
+        "end_time": 1745626849.5797975,
+        "duration_minutes": 0.00024601221084594724,
+        "duration_seconds": 0.014760732650756836,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745633545.3846512,
+        "end_time": 1745633547.7202256,
+        "duration_minutes": 0.03892623980840047,
+        "duration_seconds": 2.3355743885040283,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 14,
+        "files_injected": 14,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "apk": 2,
+            "apex": 1,
+            "capex": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745640210.5296996,
+        "end_time": 1745640212.8047562,
+        "duration_minutes": 0.03791761000951131,
+        "duration_seconds": 2.2750566005706787,
+        "errors": 11,
+        "objects_injected": 0,
+        "partition_files_injected": 8,
+        "files_injected": 8,
+        "errors_file_type_frequencies": {
+            "odex": 3,
+            "xml": 2,
+            "so": 2,
+            "rc": 1,
+            "apk": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 11
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745646616.1209416,
+        "end_time": 1745646621.0271819,
+        "duration_minutes": 0.08177067041397094,
+        "duration_seconds": 4.906240224838257,
+        "errors": 57,
+        "objects_injected": 0,
+        "partition_files_injected": 163,
+        "files_injected": 163,
+        "errors_file_type_frequencies": {
+            "jar": 1,
+            "apk": 47,
+            "so": 2,
+            "rc": 2,
+            "odex": 4
+        },
+        "errors_grouped": {
+            "Unknown Errors": 57
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745652861.9541283,
+        "end_time": 1745652863.0423443,
+        "duration_minutes": 0.018136934439341227,
+        "duration_seconds": 1.0882160663604736,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 1,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "config": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745659662.5515435,
+        "end_time": 1745659665.716933,
+        "duration_minutes": 0.052756492296854654,
+        "duration_seconds": 3.1653895378112793,
+        "errors": 10,
+        "objects_injected": 0,
+        "partition_files_injected": 39,
+        "files_injected": 39,
+        "errors_file_type_frequencies": {
+            "so": 1,
+            "apk": 8,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745666120.3268197,
+        "end_time": 1745666120.7167113,
+        "duration_minutes": 0.006498193740844727,
+        "duration_seconds": 0.3898916244506836,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745672453.514129,
+        "end_time": 1745672465.7407043,
+        "duration_minutes": 0.20377625624338785,
+        "duration_seconds": 12.226575374603271,
+        "errors": 384,
+        "objects_injected": 27,
+        "partition_files_injected": 3787,
+        "files_injected": 3814,
+        "errors_file_type_frequencies": {
+            "apk": 85,
+            "odex": 122,
+            "so": 111,
+            "rc": 21,
+            "art": 12,
+            "xml": 1,
+            "exfat": 1,
+            "oat": 12,
+            "prop": 2,
+            "exfat_v2": 1,
+            "label": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 384
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745678791.2708263,
+        "end_time": 1745678793.7507472,
+        "duration_minutes": 0.04133201440175374,
+        "duration_seconds": 2.4799208641052246,
+        "errors": 94,
+        "objects_injected": 0,
+        "partition_files_injected": 114,
+        "files_injected": 114,
+        "errors_file_type_frequencies": {
+            "prop": 34,
+            "apk": 36,
+            "vdex": 2,
+            "odex": 8,
+            "so": 8,
+            "jar": 1,
+            "xml": 1,
+            "rc": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 94
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745685135.1929746,
+        "end_time": 1745685142.0619547,
+        "duration_minutes": 0.11448300282160441,
+        "duration_seconds": 6.868980169296265,
+        "errors": 194,
+        "objects_injected": 5,
+        "partition_files_injected": 388,
+        "files_injected": 393,
+        "errors_file_type_frequencies": {
+            "xml": 11,
+            "bin": 62,
+            "so": 26,
+            "rc": 6,
+            "prop": 25,
+            "ko": 1,
+            "apk": 25,
+            "odex": 25,
+            "vdex": 3,
+            "jar": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 194
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745691496.2431252,
+        "end_time": 1745691502.7004406,
+        "duration_minutes": 0.10762192408243815,
+        "duration_seconds": 6.457315444946289,
+        "errors": 208,
+        "objects_injected": 2,
+        "partition_files_injected": 410,
+        "files_injected": 412,
+        "errors_file_type_frequencies": {
+            "sh": 1,
+            "so": 68,
+            "rc": 22,
+            "bin": 58,
+            "odex": 4,
+            "ko": 11,
+            "vdex": 1,
+            "xml": 7,
+            "apk": 17,
+            "oat": 2,
+            "art": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 208
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745697894.9104745,
+        "end_time": 1745697899.707456,
+        "duration_minutes": 0.07994969288508097,
+        "duration_seconds": 4.796981573104858,
+        "errors": 23,
+        "objects_injected": 2,
+        "partition_files_injected": 141,
+        "files_injected": 143,
+        "errors_file_type_frequencies": {
+            "bin": 1,
+            "apk": 11,
+            "odex": 10
+        },
+        "errors_grouped": {
+            "Unknown Errors": 23
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745704413.2094684,
+        "end_time": 1745704414.9204435,
+        "duration_minutes": 0.028516252835591633,
+        "duration_seconds": 1.710975170135498,
+        "errors": 3,
+        "objects_injected": 1,
+        "partition_files_injected": 0,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "apk": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745710934.221746,
+        "end_time": 1745710940.3432386,
+        "duration_minutes": 0.10202487707138061,
+        "duration_seconds": 6.121492624282837,
+        "errors": 9,
+        "objects_injected": 1,
+        "partition_files_injected": 2,
+        "files_injected": 3,
+        "errors_file_type_frequencies": {
+            "apk": 2,
+            "so": 4,
+            "odex": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745717420.1732602,
+        "end_time": 1745717426.3627343,
+        "duration_minutes": 0.10315790176391601,
+        "duration_seconds": 6.189474105834961,
+        "errors": 3,
+        "objects_injected": 1,
+        "partition_files_injected": 1,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {
+            "apk": 1,
+            "odex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745723971.6455488,
+        "end_time": 1745723982.1003814,
+        "duration_minutes": 0.17424720923105877,
+        "duration_seconds": 10.454832553863525,
+        "errors": 1,
+        "objects_injected": 6,
+        "partition_files_injected": 634,
+        "files_injected": 640,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745488228.3031774,
+        "end_time": 1745488273.5841222,
+        "duration_minutes": 0.7546824137369792,
+        "duration_seconds": 45.28094482421875,
+        "errors": 1042,
+        "objects_injected": 915,
+        "partition_files_injected": 2236,
+        "files_injected": 3151,
+        "errors_file_type_frequencies": {
+            "oat": 34,
+            "so": 390,
+            "art": 35,
+            "odex": 164,
+            "apk": 173,
+            "exfat": 2,
+            "rc": 97,
+            "jar": 10,
+            "apex": 8,
+            "xml": 25,
+            "vdex": 20,
+            "cil": 20,
+            "prop": 18,
+            "capex": 12,
+            "sha256": 2,
+            "txt": 1,
+            "zip": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1042
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745493327.28639,
+        "end_time": 1745493419.605064,
+        "duration_minutes": 1.5386445641517639,
+        "duration_seconds": 92.31867384910583,
+        "errors": 2882,
+        "objects_injected": 116,
+        "partition_files_injected": 11148,
+        "files_injected": 11264,
+        "errors_file_type_frequencies": {
+            "prop": 228,
+            "odex": 278,
+            "qti": 3,
+            "apk": 92,
+            "rc": 14,
+            "clearkey": 1,
+            "xiaomi": 1,
+            "widevine": 1,
+            "service": 2,
+            "sh": 5,
+            "raw": 2,
+            "so": 1681,
+            "vdex": 88,
+            "jar": 65,
+            "gz": 8,
+            "xml": 54,
+            "pb": 64,
+            "mf": 24,
+            "txt": 17,
+            "cil": 12,
+            "rsa": 24,
+            "sha256": 1,
+            "sf": 24,
+            "apex": 17,
+            "arsc": 6,
+            "img": 9,
+            "art": 12,
+            "oat": 10,
+            "json": 4,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2882
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745498238.293362,
+        "end_time": 1745498259.922113,
+        "duration_minutes": 0.3604791839917501,
+        "duration_seconds": 21.628751039505005,
+        "errors": 149,
+        "objects_injected": 34,
+        "partition_files_injected": 195,
+        "files_injected": 229,
+        "errors_file_type_frequencies": {
+            "odex": 21,
+            "so": 74,
+            "apk": 11,
+            "capex": 1,
+            "apex": 5,
+            "oat": 12,
+            "rc": 5,
+            "art": 12,
+            "xml": 2,
+            "cil": 4,
+            "prop": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 149
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745503149.515736,
+        "end_time": 1745503149.7817287,
+        "duration_minutes": 0.0044332106908162435,
+        "duration_seconds": 0.2659926414489746,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745508000.7935755,
+        "end_time": 1745508091.6098115,
+        "duration_minutes": 1.513603933652242,
+        "duration_seconds": 90.81623601913452,
+        "errors": 2065,
+        "objects_injected": 31,
+        "partition_files_injected": 8891,
+        "files_injected": 8922,
+        "errors_file_type_frequencies": {
+            "so": 562,
+            "binarypb": 536,
+            "rc": 90,
+            "xml": 121,
+            "citadel": 3,
+            "pb": 90,
+            "cil": 3,
+            "mf": 20,
+            "clearkey": 1,
+            "prop": 3,
+            "sf": 20,
+            "gs101": 2,
+            "apk": 146,
+            "bin": 6,
+            "pixel": 4,
+            "default": 1,
+            "gz": 18,
+            "txt": 3,
+            "rsa": 20,
+            "sha256": 4,
+            "generic": 1,
+            "odex": 197,
+            "st": 1,
+            "apex": 1,
+            "bcmbtlinux": 1,
+            "trusty": 2,
+            "arsc": 3,
+            "vendor": 1,
+            "cs40l25": 1,
+            "img": 21,
+            "multihal": 1,
+            "widevine": 1,
+            "goodix": 1,
+            "art": 22,
+            "raw": 1,
+            "json": 8,
+            "oat": 10,
+            "jar": 25,
+            "0": 3,
+            "vdex": 10,
+            "policy": 6,
+            "o": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2065
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745513029.4023554,
+        "end_time": 1745513031.9500513,
+        "duration_minutes": 0.04246159791946411,
+        "duration_seconds": 2.5476958751678467,
+        "errors": 51,
+        "objects_injected": 2,
+        "partition_files_injected": 79,
+        "files_injected": 81,
+        "errors_file_type_frequencies": {
+            "apk": 33,
+            "rc": 2,
+            "prop": 10,
+            "odex": 6
+        },
+        "errors_grouped": {
+            "Unknown Errors": 51
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745518046.3033967,
+        "end_time": 1745518046.472229,
+        "duration_minutes": 0.002813871701558431,
+        "duration_seconds": 0.16883230209350586,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745522824.0623882,
+        "end_time": 1745522830.9602711,
+        "duration_minutes": 0.11496471563975016,
+        "duration_seconds": 6.89788293838501,
+        "errors": 198,
+        "objects_injected": 2,
+        "partition_files_injected": 484,
+        "files_injected": 486,
+        "errors_file_type_frequencies": {
+            "apk": 35,
+            "jar": 6,
+            "pb": 46,
+            "rc": 3,
+            "so": 14,
+            "xml": 18,
+            "mf": 5,
+            "gz": 4,
+            "arsc": 5,
+            "json": 5,
+            "img": 5,
+            "sf": 5,
+            "rsa": 5,
+            "dat": 1,
+            "txt": 1,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 198
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745527721.324245,
+        "end_time": 1745527724.3538349,
+        "duration_minutes": 0.050493164857228594,
+        "duration_seconds": 3.029589891433716,
+        "errors": 4,
+        "objects_injected": 2,
+        "partition_files_injected": 14,
+        "files_injected": 16,
+        "errors_file_type_frequencies": {
+            "odex": 2,
+            "so": 1,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745532607.41738,
+        "end_time": 1745532612.2572906,
+        "duration_minutes": 0.0806651751200358,
+        "duration_seconds": 4.839910507202148,
+        "errors": 38,
+        "objects_injected": 2,
+        "partition_files_injected": 290,
+        "files_injected": 292,
+        "errors_file_type_frequencies": {
+            "dlc": 1,
+            "apk": 14,
+            "odex": 11,
+            "xml": 2,
+            "sh": 1,
+            "qti": 1,
+            "so": 2,
+            "art": 2,
+            "oat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 38
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745537624.8171558,
+        "end_time": 1745537627.3107233,
+        "duration_minutes": 0.041559457778930664,
+        "duration_seconds": 2.49356746673584,
+        "errors": 15,
+        "objects_injected": 0,
+        "partition_files_injected": 58,
+        "files_injected": 58,
+        "errors_file_type_frequencies": {
+            "prop": 3,
+            "jpg": 1,
+            "apk": 5,
+            "rc": 1,
+            "so": 3,
+            "odex": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 15
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745542537.971709,
+        "end_time": 1745542538.117444,
+        "duration_minutes": 0.002428917090098063,
+        "duration_seconds": 0.1457350254058838,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745547492.2040148,
+        "end_time": 1745547494.5420065,
+        "duration_minutes": 0.03896652857462565,
+        "duration_seconds": 2.337991714477539,
+        "errors": 12,
+        "objects_injected": 0,
+        "partition_files_injected": 64,
+        "files_injected": 64,
+        "errors_file_type_frequencies": {
+            "json": 1,
+            "apk": 8,
+            "xml": 1,
+            "jar": 1,
+            "so": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 12
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745552267.7069461,
+        "end_time": 1745552280.6869698,
+        "duration_minutes": 0.21633372704188028,
+        "duration_seconds": 12.980023622512817,
+        "errors": 1042,
+        "objects_injected": 8,
+        "partition_files_injected": 1840,
+        "files_injected": 1848,
+        "errors_file_type_frequencies": {
+            "so": 597,
+            "xml": 43,
+            "ko": 36,
+            "rc": 112,
+            "odex": 111,
+            "json": 1,
+            "bin": 60,
+            "apk": 44,
+            "vdex": 12,
+            "policy": 2,
+            "cil": 6,
+            "jar": 5,
+            "sh": 1,
+            "txt": 1,
+            "art": 2,
+            "oat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1042
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745557325.5817013,
+        "end_time": 1745557337.9044619,
+        "duration_minutes": 0.20537934303283692,
+        "duration_seconds": 12.322760581970215,
+        "errors": 6,
+        "objects_injected": 13,
+        "partition_files_injected": 720,
+        "files_injected": 733,
+        "errors_file_type_frequencies": {
+            "odex": 5
+        },
+        "errors_grouped": {
+            "Unknown Errors": 6
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745562396.8247368,
+        "end_time": 1745562438.391069,
+        "duration_minutes": 0.6927722016970317,
+        "duration_seconds": 41.5663321018219,
+        "errors": 551,
+        "objects_injected": 272,
+        "partition_files_injected": 4235,
+        "files_injected": 4507,
+        "errors_file_type_frequencies": {
+            "so": 299,
+            "odex": 62,
+            "png": 1,
+            "apk": 80,
+            "pb": 21,
+            "art": 20,
+            "oat": 20,
+            "rc": 19,
+            "xml": 3,
+            "txt": 5
+        },
+        "errors_grouped": {
+            "Unknown Errors": 551
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745567531.9271917,
+        "end_time": 1745567532.0960977,
+        "duration_minutes": 0.002815099557240804,
+        "duration_seconds": 0.16890597343444824,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745572379.5141463,
+        "end_time": 1745572379.769247,
+        "duration_minutes": 0.0042516787846883135,
+        "duration_seconds": 0.25510072708129883,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {
+            "conf": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745577266.3653805,
+        "end_time": 1745577276.7635858,
+        "duration_minutes": 0.17330342133839924,
+        "duration_seconds": 10.398205280303955,
+        "errors": 10,
+        "objects_injected": 5,
+        "partition_files_injected": 677,
+        "files_injected": 682,
+        "errors_file_type_frequencies": {
+            "odex": 8
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745582322.9056544,
+        "end_time": 1745582323.097554,
+        "duration_minutes": 0.0031983256340026855,
+        "duration_seconds": 0.19189953804016113,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745587749.0365965,
+        "end_time": 1745587755.424587,
+        "duration_minutes": 0.10646650791168213,
+        "duration_seconds": 6.387990474700928,
+        "errors": 29,
+        "objects_injected": 2,
+        "partition_files_injected": 15,
+        "files_injected": 17,
+        "errors_file_type_frequencies": {
+            "rc": 2,
+            "xml": 2,
+            "so": 1,
+            "apk": 11,
+            "odex": 12,
+            "vdex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 29
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745592777.4098465,
+        "end_time": 1745592782.1927123,
+        "duration_minutes": 0.07971442937850952,
+        "duration_seconds": 4.782865762710571,
+        "errors": 29,
+        "objects_injected": 1,
+        "partition_files_injected": 6,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "so": 14,
+            "jar": 9,
+            "vdex": 2,
+            "odex": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 29
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745597834.1564057,
+        "end_time": 1745597855.926897,
+        "duration_minutes": 0.362841522693634,
+        "duration_seconds": 21.770491361618042,
+        "errors": 1727,
+        "objects_injected": 39,
+        "partition_files_injected": 3574,
+        "files_injected": 3613,
+        "errors_file_type_frequencies": {
+            "so": 949,
+            "bin": 62,
+            "rc": 33,
+            "xml": 37,
+            "ko": 7,
+            "prop": 236,
+            "sh": 1,
+            "multihal": 1,
+            "odex": 119,
+            "service": 1,
+            "apk": 143,
+            "cil": 6,
+            "txt": 23,
+            "apex": 2,
+            "vdex": 6,
+            "rsa": 5,
+            "arsc": 2,
+            "sf": 5,
+            "jar": 17,
+            "pb": 25,
+            "gz": 6,
+            "mf": 5,
+            "img": 5,
+            "dat": 2,
+            "o": 6,
+            "32rc": 2,
+            "prof": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1727
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745602822.4210098,
+        "end_time": 1745602825.1753654,
+        "duration_minutes": 0.04590592781702677,
+        "duration_seconds": 2.7543556690216064,
+        "errors": 4,
+        "objects_injected": 0,
+        "partition_files_injected": 7,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "capex": 2,
+            "xml": 1,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745607884.493238,
+        "end_time": 1745607884.7176492,
+        "duration_minutes": 0.0037401874860127768,
+        "duration_seconds": 0.2244112491607666,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745613108.254649,
+        "end_time": 1745613112.158461,
+        "duration_minutes": 0.06506353616714478,
+        "duration_seconds": 3.9038121700286865,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 1,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "apk": 8,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745618076.1819353,
+        "end_time": 1745618076.36869,
+        "duration_minutes": 0.0031125783920288087,
+        "duration_seconds": 0.18675470352172852,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745622950.2870476,
+        "end_time": 1745622954.7824378,
+        "duration_minutes": 0.07492316961288452,
+        "duration_seconds": 4.495390176773071,
+        "errors": 3,
+        "objects_injected": 1,
+        "partition_files_injected": 1,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {
+            "odex": 1,
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745627936.6604736,
+        "end_time": 1745627936.8390796,
+        "duration_minutes": 0.0029767672220865887,
+        "duration_seconds": 0.1786060333251953,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745633231.5706596,
+        "end_time": 1745633237.7887678,
+        "duration_minutes": 0.10363513628641764,
+        "duration_seconds": 6.218108177185059,
+        "errors": 269,
+        "objects_injected": 2,
+        "partition_files_injected": 122,
+        "files_injected": 124,
+        "errors_file_type_frequencies": {
+            "so": 84,
+            "bin": 138,
+            "xml": 10,
+            "prop": 8,
+            "ko": 1,
+            "rc": 4,
+            "apk": 14,
+            "odex": 10
+        },
+        "errors_grouped": {
+            "Unknown Errors": 269
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745638488.6571443,
+        "end_time": 1745638501.599397,
+        "duration_minutes": 0.2157042105992635,
+        "duration_seconds": 12.94225263595581,
+        "errors": 47,
+        "objects_injected": 4,
+        "partition_files_injected": 1189,
+        "files_injected": 1193,
+        "errors_file_type_frequencies": {
+            "bin": 7,
+            "binarypb": 24,
+            "so": 3,
+            "txt": 6,
+            "rc": 1,
+            "apk": 2,
+            "odex": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 47
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745643425.464594,
+        "end_time": 1745643425.6555214,
+        "duration_minutes": 0.003182125091552734,
+        "duration_seconds": 0.19092750549316406,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745648222.5167952,
+        "end_time": 1745648222.714972,
+        "duration_minutes": 0.0033029476801554364,
+        "duration_seconds": 0.19817686080932617,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745653362.0563147,
+        "end_time": 1745653371.2878232,
+        "duration_minutes": 0.15385847489039103,
+        "duration_seconds": 9.231508493423462,
+        "errors": 3,
+        "objects_injected": 2,
+        "partition_files_injected": 325,
+        "files_injected": 327,
+        "errors_file_type_frequencies": {
+            "apk": 1,
+            "odex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1745658510.3441536,
+        "end_time": 1745658515.868216,
+        "duration_minutes": 0.09206770658493042,
+        "duration_seconds": 5.524062395095825,
+        "errors": 7,
+        "objects_injected": 1,
+        "partition_files_injected": 2,
+        "files_injected": 3,
+        "errors_file_type_frequencies": {
+            "so": 2,
+            "apk": 2,
+            "odex": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 7
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746545489.4030323,
+        "end_time": 1746545532.1193478,
+        "duration_minutes": 0.7119385917981466,
+        "duration_seconds": 42.716315507888794,
+        "errors": 1042,
+        "objects_injected": 915,
+        "partition_files_injected": 2236,
+        "files_injected": 3151,
+        "errors_file_type_frequencies": {
+            "apk": 173,
+            "rc": 97,
+            "exfat": 2,
+            "apex": 8,
+            "odex": 164,
+            "so": 390,
+            "txt": 1,
+            "oat": 34,
+            "prop": 18,
+            "xml": 25,
+            "art": 35,
+            "jar": 10,
+            "cil": 20,
+            "vdex": 20,
+            "capex": 12,
+            "zip": 1,
+            "sha256": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1042
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746550709.4857893,
+        "end_time": 1746550809.1337564,
+        "duration_minutes": 1.6607994516690572,
+        "duration_seconds": 99.64796710014343,
+        "errors": 2882,
+        "objects_injected": 116,
+        "partition_files_injected": 11148,
+        "files_injected": 11264,
+        "errors_file_type_frequencies": {
+            "png": 1,
+            "prop": 228,
+            "odex": 278,
+            "sh": 5,
+            "apk": 92,
+            "service": 2,
+            "xiaomi": 1,
+            "clearkey": 1,
+            "qti": 3,
+            "raw": 2,
+            "rc": 14,
+            "widevine": 1,
+            "so": 1681,
+            "vdex": 88,
+            "jar": 65,
+            "txt": 17,
+            "cil": 12,
+            "img": 9,
+            "xml": 54,
+            "pb": 64,
+            "art": 12,
+            "gz": 8,
+            "arsc": 6,
+            "mf": 24,
+            "sha256": 1,
+            "apex": 17,
+            "sf": 24,
+            "rsa": 24,
+            "oat": 10,
+            "json": 4,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2882
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746555972.137922,
+        "end_time": 1746555993.4735365,
+        "duration_minutes": 0.35559357404708863,
+        "duration_seconds": 21.335614442825317,
+        "errors": 150,
+        "objects_injected": 33,
+        "partition_files_injected": 195,
+        "files_injected": 228,
+        "errors_file_type_frequencies": {
+            "so": 75,
+            "apex": 5,
+            "apk": 11,
+            "oat": 12,
+            "cil": 4,
+            "art": 12,
+            "rc": 5,
+            "odex": 21,
+            "xml": 2,
+            "prop": 1,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 150
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746560908.715033,
+        "end_time": 1746560909.04631,
+        "duration_minutes": 0.0055212815602620445,
+        "duration_seconds": 0.33127689361572266,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746565954.8341975,
+        "end_time": 1746566050.8049924,
+        "duration_minutes": 1.5995132486025492,
+        "duration_seconds": 95.97079491615295,
+        "errors": 2064,
+        "objects_injected": 31,
+        "partition_files_injected": 8892,
+        "files_injected": 8923,
+        "errors_file_type_frequencies": {
+            "xml": 121,
+            "so": 562,
+            "binarypb": 536,
+            "rc": 90,
+            "txt": 3,
+            "sha256": 4,
+            "pixel": 4,
+            "cil": 3,
+            "bin": 6,
+            "citadel": 3,
+            "arsc": 3,
+            "trusty": 2,
+            "apk": 146,
+            "cs40l25": 1,
+            "generic": 1,
+            "sf": 20,
+            "pb": 90,
+            "vendor": 1,
+            "default": 1,
+            "odex": 197,
+            "img": 21,
+            "multihal": 1,
+            "prop": 3,
+            "rsa": 20,
+            "gz": 18,
+            "mf": 20,
+            "gs101": 2,
+            "widevine": 1,
+            "clearkey": 1,
+            "apex": 1,
+            "st": 1,
+            "goodix": 1,
+            "bcmbtlinux": 1,
+            "art": 22,
+            "raw": 1,
+            "jar": 25,
+            "json": 8,
+            "oat": 10,
+            "vdex": 10,
+            "policy": 6,
+            "o": 2,
+            "0": 3
+        },
+        "errors_grouped": {
+            "Unknown Errors": 2064
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746571002.1791675,
+        "end_time": 1746571005.1262493,
+        "duration_minutes": 0.04911803007125855,
+        "duration_seconds": 2.9470818042755127,
+        "errors": 52,
+        "objects_injected": 2,
+        "partition_files_injected": 78,
+        "files_injected": 80,
+        "errors_file_type_frequencies": {
+            "so": 1,
+            "apk": 33,
+            "odex": 6,
+            "prop": 10,
+            "rc": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 52
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746575961.6512764,
+        "end_time": 1746575961.8316855,
+        "duration_minutes": 0.0030068198839823404,
+        "duration_seconds": 0.18040919303894043,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746580939.6345627,
+        "end_time": 1746580947.7250733,
+        "duration_minutes": 0.1348418434460958,
+        "duration_seconds": 8.090510606765747,
+        "errors": 199,
+        "objects_injected": 1,
+        "partition_files_injected": 484,
+        "files_injected": 485,
+        "errors_file_type_frequencies": {
+            "apk": 35,
+            "pb": 46,
+            "dat": 1,
+            "img": 5,
+            "sf": 5,
+            "rsa": 5,
+            "arsc": 5,
+            "xml": 18,
+            "so": 14,
+            "mf": 5,
+            "json": 5,
+            "jar": 6,
+            "rc": 3,
+            "gz": 4,
+            "txt": 1,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 199
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746585959.0594902,
+        "end_time": 1746585962.431918,
+        "duration_minutes": 0.05620712836583455,
+        "duration_seconds": 3.3724277019500732,
+        "errors": 4,
+        "objects_injected": 2,
+        "partition_files_injected": 14,
+        "files_injected": 16,
+        "errors_file_type_frequencies": {
+            "jar": 1,
+            "odex": 2,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746590931.5304103,
+        "end_time": 1746590937.2391112,
+        "duration_minutes": 0.09514501492182413,
+        "duration_seconds": 5.708700895309448,
+        "errors": 38,
+        "objects_injected": 2,
+        "partition_files_injected": 290,
+        "files_injected": 292,
+        "errors_file_type_frequencies": {
+            "xml": 3,
+            "qti": 1,
+            "apk": 14,
+            "odex": 11,
+            "sh": 1,
+            "so": 2,
+            "oat": 2,
+            "art": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 38
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746595867.0276325,
+        "end_time": 1746595869.6425383,
+        "duration_minutes": 0.043581763903299965,
+        "duration_seconds": 2.614905834197998,
+        "errors": 15,
+        "objects_injected": 0,
+        "partition_files_injected": 58,
+        "files_injected": 58,
+        "errors_file_type_frequencies": {
+            "so": 4,
+            "apk": 5,
+            "prop": 3,
+            "odex": 2,
+            "rc": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 15
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746600869.9621394,
+        "end_time": 1746600870.173986,
+        "duration_minutes": 0.003530776500701904,
+        "duration_seconds": 0.21184659004211426,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746605841.7175322,
+        "end_time": 1746605844.4671762,
+        "duration_minutes": 0.04582740068435669,
+        "duration_seconds": 2.7496440410614014,
+        "errors": 12,
+        "objects_injected": 0,
+        "partition_files_injected": 64,
+        "files_injected": 64,
+        "errors_file_type_frequencies": {
+            "so": 2,
+            "apk": 8,
+            "xml": 1,
+            "jar": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 12
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746610817.4717782,
+        "end_time": 1746610833.1773777,
+        "duration_minutes": 0.2617599924405416,
+        "duration_seconds": 15.705599546432495,
+        "errors": 1041,
+        "objects_injected": 8,
+        "partition_files_injected": 1841,
+        "files_injected": 1849,
+        "errors_file_type_frequencies": {
+            "so": 597,
+            "ko": 36,
+            "rc": 112,
+            "bin": 60,
+            "xml": 43,
+            "apk": 44,
+            "vdex": 12,
+            "policy": 2,
+            "odex": 111,
+            "sh": 1,
+            "cil": 6,
+            "txt": 1,
+            "jar": 5,
+            "art": 2,
+            "oat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1041
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746615882.0810637,
+        "end_time": 1746615896.4123423,
+        "duration_minutes": 0.23885464270909626,
+        "duration_seconds": 14.331278562545776,
+        "errors": 6,
+        "objects_injected": 13,
+        "partition_files_injected": 720,
+        "files_injected": 733,
+        "errors_file_type_frequencies": {
+            "odex": 5
+        },
+        "errors_grouped": {
+            "Unknown Errors": 6
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746620847.2541914,
+        "end_time": 1746620885.9624126,
+        "duration_minutes": 0.6451370199521382,
+        "duration_seconds": 38.708221197128296,
+        "errors": 551,
+        "objects_injected": 272,
+        "partition_files_injected": 4235,
+        "files_injected": 4507,
+        "errors_file_type_frequencies": {
+            "so": 299,
+            "png": 1,
+            "oat": 20,
+            "odex": 62,
+            "apk": 80,
+            "pb": 21,
+            "txt": 5,
+            "xml": 3,
+            "art": 20,
+            "rc": 19
+        },
+        "errors_grouped": {
+            "Unknown Errors": 551
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746626039.3949742,
+        "end_time": 1746626039.5839243,
+        "duration_minutes": 0.0031491676966349286,
+        "duration_seconds": 0.1889500617980957,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746630997.2340755,
+        "end_time": 1746630997.535966,
+        "duration_minutes": 0.005031506220499675,
+        "duration_seconds": 0.30189037322998047,
+        "errors": 1,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {
+            "conf": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746636044.7744336,
+        "end_time": 1746636054.7187448,
+        "duration_minutes": 0.1657385190327962,
+        "duration_seconds": 9.944311141967773,
+        "errors": 10,
+        "objects_injected": 5,
+        "partition_files_injected": 677,
+        "files_injected": 682,
+        "errors_file_type_frequencies": {
+            "odex": 8
+        },
+        "errors_grouped": {
+            "Unknown Errors": 10
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746640996.5582438,
+        "end_time": 1746640996.7301853,
+        "duration_minutes": 0.0028656919797261557,
+        "duration_seconds": 0.17194151878356934,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746646078.7423797,
+        "end_time": 1746646084.5735278,
+        "duration_minutes": 0.0971858024597168,
+        "duration_seconds": 5.831148147583008,
+        "errors": 28,
+        "objects_injected": 2,
+        "partition_files_injected": 16,
+        "files_injected": 18,
+        "errors_file_type_frequencies": {
+            "xml": 2,
+            "rc": 2,
+            "apk": 11,
+            "odex": 12,
+            "vdex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 28
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746651021.1714609,
+        "end_time": 1746651026.2202563,
+        "duration_minutes": 0.08414659102757772,
+        "duration_seconds": 5.048795461654663,
+        "errors": 29,
+        "objects_injected": 1,
+        "partition_files_injected": 6,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "so": 14,
+            "odex": 3,
+            "vdex": 2,
+            "jar": 9
+        },
+        "errors_grouped": {
+            "Unknown Errors": 29
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746656144.3513381,
+        "end_time": 1746656176.954991,
+        "duration_minutes": 0.5433942159016927,
+        "duration_seconds": 32.60365295410156,
+        "errors": 1727,
+        "objects_injected": 39,
+        "partition_files_injected": 3574,
+        "files_injected": 3613,
+        "errors_file_type_frequencies": {
+            "so": 949,
+            "rc": 33,
+            "bin": 62,
+            "ko": 7,
+            "xml": 37,
+            "prop": 236,
+            "sh": 1,
+            "apk": 143,
+            "odex": 119,
+            "service": 1,
+            "multihal": 1,
+            "cil": 6,
+            "jar": 17,
+            "txt": 23,
+            "img": 5,
+            "apex": 2,
+            "pb": 25,
+            "gz": 6,
+            "arsc": 2,
+            "rsa": 5,
+            "mf": 5,
+            "sf": 5,
+            "vdex": 6,
+            "o": 6,
+            "32rc": 2,
+            "prof": 1,
+            "dat": 2
+        },
+        "errors_grouped": {
+            "Unknown Errors": 1727
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746661137.8779492,
+        "end_time": 1746661140.5468087,
+        "duration_minutes": 0.04448099136352539,
+        "duration_seconds": 2.6688594818115234,
+        "errors": 4,
+        "objects_injected": 0,
+        "partition_files_injected": 7,
+        "files_injected": 7,
+        "errors_file_type_frequencies": {
+            "xml": 1,
+            "capex": 2,
+            "apex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 4
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746666192.3810887,
+        "end_time": 1746666192.5591872,
+        "duration_minutes": 0.002968307336171468,
+        "duration_seconds": 0.17809844017028809,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746671121.9577212,
+        "end_time": 1746671125.409329,
+        "duration_minutes": 0.05752679506937663,
+        "duration_seconds": 3.4516077041625977,
+        "errors": 9,
+        "objects_injected": 0,
+        "partition_files_injected": 1,
+        "files_injected": 1,
+        "errors_file_type_frequencies": {
+            "apk": 8,
+            "capex": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 9
+        }
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746676063.8197658,
+        "end_time": 1746676064.009267,
+        "duration_minutes": 0.0031583547592163087,
+        "duration_seconds": 0.18950128555297852,
+        "errors": 0,
+        "objects_injected": 0,
+        "partition_files_injected": 0,
+        "files_injected": 0,
+        "errors_file_type_frequencies": {},
+        "errors_grouped": {}
+    },
+    {
+        "method": "start_post_build_injector",
+        "start_time": 1746681040.8646016,
+        "end_time": 1746681045.1726334,
+        "duration_minutes": 0.07180052995681763,
+        "duration_seconds": 4.308031797409058,
+        "errors": 3,
+        "objects_injected": 1,
+        "partition_files_injected": 1,
+        "files_injected": 2,
+        "errors_file_type_frequencies": {
+            "odex": 1,
+            "apk": 1
+        },
+        "errors_grouped": {
+            "Unknown Errors": 3
+        }
+    }
+]
+
+
