@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Android-Rehoster
-Anonymous Repo for Android Rehosting Paper
-=======
 # ReHoster Evalution Data
 
 ## Repository Overview
@@ -151,7 +147,3 @@ The `images/` directory contains PDF visualizations generated from the data anal
   - `v13_Duration_Builds.pdf` / `v13_Duration_Post_Injection.pdf`: Android 13 metrics
   - `SDK32_Duration_Builds.pdf` / `SDK32_Duration_Post_Injection.pdf`: SDK 32 metrics
 
-
-
-
->>>>>>> 193f106064ec8be9e303a4727da9c105e811c4da
